@@ -1,0 +1,1040 @@
+[
+    {
+        "id": "on-the-rocks",
+        "name": "On the rocks",
+        "glassInfo": "This category refers to cocktails served in an old fashioned style glass over big cube of ice, cubed ice or crushed ice.\nThe most iconic cocktails served in this type of glass are Negroni & Old Fashioned.\n\nThe capacity of this kind of glasses  usually goes from 180 ml to 350 ml.",
+        "cocktails":
+        [
+            {
+                "id":               "boulevardier",
+                "name":             "Boulevardier",
+                "origin":           "France",
+                "description":      "BOOZY, BITTER, DRY",
+                "category":         "On the rocks",
+                "glass":            "Rock glass",
+                "instructions":     "Add all the ingredients to a mixing glass, stir for at least 15 seconds, pour it in a chilled rock glass over ice and garnish.",
+                "method":           "Stir",
+                "ice":              "Cubed ice",
+                "ingredients":
+                [
+                    "Bourbon or Rye Whiskey",
+                    "Campari bitter",
+                    "Sweet Red Vermouth"
+                ],
+                "measures":
+                [
+                    "45 ml",
+                    "30 ml",
+                    "30 ml"
+                ],
+                "garnish":          "Orange zest and luxardo cherry (optional)",
+                "history":          "The Boulevardier was made for Erskine Gwynne, American expatriate and editor of a monthly magazine called “The Boulevardier”, hence the drink’s name, at Harry (McElhone)’s New York Bar in Paris and first appeared in his 1927 book “Barflies and Cocktails”.\nObviously, this is a Negroni with bourbon in lieu of gin. The Negroni, however, would not see print for another 20 years, and Americans had never heard of Campari in 1927."
+            },
+
+            {
+                "id":               "caipirinha",
+                "name":             "Caipirinha",
+                "origin":           "Brazil",
+                "description":      "REFRESHING, TART, EARTHY",
+                "category":         "On the rocks",
+                "glass":            "Rock glass",
+                "instructions":     "Dice a lime and put it inside a rock glass, add sugar or syrup, gently muddle to express the oils and juice of the lime, fill the glass with ice and add the spirit, churn it quickly to give dilution and to mix the ingredients together.",
+                "method":           "Build in",
+                "ice":              "Pebble ice",
+                "ingredients":
+                [
+                    "Cachaca",
+                    "Lime",
+                    "Sugar"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "1 diced",
+                    "2 tsp"
+                ],
+                "garnish":          "Lime wedge",
+                "history":          "Although the origin of the drink is unknown, the Caipirinha was invented by landowning farmers in the region of Piracicaba, São Paulo Brazil, during the 19th century as a local drink for “high standard” events and parties.\nCaipirinha is the strongest national cocktail of Brazil, and is imbibed in bars, restaurants, and many households throughout the country.\nIts name is the diminutive of the word “caipira” which refers to someone from the countryside."
+            },
+            
+            {
+                "id":               "mai-tai",
+                "name":             "Mai Tai",
+                "origin":           "U.S.A.",
+                "description":      "CITRUSY, REFRESHING, AMAZINGLY GOOD",
+                "category":         "On the rocks",
+                "glass":            "Rock glass",
+                "instructions":     "Pour all the ingredients inside a shaker with ice. Shake until frosty and fine strain it into a chilled rock glass and top if with pebble ice.",
+                "method":           "Shake and strain",
+                "ice":              "Pebble ice",
+                "ingredients": [    "Jamaican Dark Rum",
+                    "Orange Curaçao",
+                    "Lime juice",
+                    "Orgeat syrup"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "20 ml",
+                    "25 ml",
+                    "15 ml"
+                ],
+                "garnish":          "Lime wedge and mint sprig",
+                "history":          "The Mai Tai is one of the quintessential cocktails in the Tiki culture.\nThis tale started in 1944, according to Victor J. Bergeron, better known as Trader Vic. He tells the story of the day he was serving two friends, Eastham and Carrie Guild from Tahiti, at his restaurant “Trader Vic” in Oakland, California. Once he served this drink to its friends and after Carrie took one sip of it she said “Mai Tai-Roa Aé”, which means “Out of this world - the best”."
+            },
+            
+            {
+                "id":               "mint-julep",
+                "name":             "Mint Julep",
+                "origin":           "U.S.A.",
+                "description":      "SWEET, WHISKEY FORWARD, FRESH",
+                "category":         "On the rocks",
+                "glass":            "Rock glass",
+                "instructions":     "Pour all the ingredients inside a glass with crushed ice, churn well and garnish.",
+                "method":           "Build in",
+                "ice":              "Crushed ice",
+                "ingredients":
+                [
+                    "Whiskey",
+                    "Sugar syrup",
+                    "Mint leaves"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "20 ml",
+                    "10"
+                ],
+                "garnish":          "Mint sprig",
+                "history":          "The julep first got his start as a medical concoction used to settle the stomach. As a cocktail, it blossomed in the American South in the late 1700s, with a decidedly elite air, because not everyone had access to ice nor the silver cup in which the drink is served. In 1938 this cocktail became the official drink of the Kentucky Derby, where almost 120’000 mint juleps have been sold at the race every year since."
+            },
+            
+            {
+                "id":               "negroni",
+                "name":             "Negroni",
+                "origin":           "Italy",
+                "description":      "STRONG, BITTER, COMPLEX BOTANICALS",
+                "category":         "On the rocks",
+                "glass":            "Rock glass",
+                "instructions":     "Add all the ingredients to a mixing glass, stir for at least 15 seconds, pour it over ice in a rock glass and garnish.",
+                "method":           "Stir",
+                "ice":              "Cubed ice",
+                "ingredients":
+                [
+                    "London Dry Gin",
+                    "Campari bitter",
+                    "Sweet Red Vermouth"
+                ],
+                "measures":
+                [
+                    "30 ml",
+                    "30 ml",
+                    "30 ml"
+                ],
+                "garnish":          "Orange slice",
+                "history":          "The story of this cocktail goes back in 1919, where Count Camillo Negroni, a reputed wide boy and regular customer at the Casoni Bar in Florence, one day asked for a bit more kick in his Americano. The bartender, Fosco Scarselli, responded by switching the soda water with gin and that combination became the Count’s usual order.\n\nFun fact: Thanks to Gaz Regan, the icon way of stirring a negroni is with your finger and always garnished with an orange wedge or twist, the use of a lemon is a heinous crime best punished by being mede to suck Gaz Regan’s Negroni stirring finger."
+            },
+            
+            {
+                "id":               "old-fashioned",
+                "name":             "Old Fashioned",
+                "origin":           "U.S.A.",
+                "description":      "SPICED, BOOZY, BOURBON COMPLEXITY",
+                "category":         "On the rocks",
+                "glass":            "Rock glass",
+                "instructions":     "Add all the ingredients to a mixing glass, stir for at least 15 seconds, pour it over ice in a rock glass and garnish.",
+                "method":           "Stir",
+                "ice":              "Cubed ice",
+                "ingredients":
+                [
+                    "Bourbon Whiskey",
+                    "Demerara sugar syrup",
+                    "Angostura bitters"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "10 ml",
+                    "3 dashes"
+                ],
+                "garnish":          "Orange zest",
+                "history":          "An old fashioned was one of the simpler and earlier versions of cocktails, before the development of advanced bartending techniques and recipes in the later part of the 19th century.\nBy the 1860s, it was common for orange curaçao, absinthe, and other liqueurs to be added to the cocktail. As cocktails became more complex, drinkers accustomed to simpler cocktails began to ask bartenders for something akin to the pre 1850's drinks, calling them as “Old Fashioned”."
+            },
+            
+            {
+                "id":               "tommys-margarita",
+                "name":             "Tommy's Margarita",
+                "origin":           "U.S.A.",
+                "description":      "FRESH, CITRUSY, BOOZY",
+                "category":         "On the rocks",
+                "glass":            "Rock glass",
+                "instructions":     "Pour all the ingredients inside a shaker with ice, shake well and fine strain it inside a rock glass.",
+                "method":           "Shake and strain",
+                "ice":              "Cubed ice",
+                "ingredients":
+                [
+                    "Reposado Tequila",
+                    "Lime juice",
+                    "Agave syrup"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "25 ml",
+                    "15 ml"
+                ],
+                "garnish":          "Lime wheel (optional)",
+                "history":       "This cocktail was created in 1988 by Julio Bermejo and named after his family’s Mexican restaurant and bar in San Francisco. Tomas and Elmy Bermejo set up Tommy’s in 1965 and Julio is one of their five children, all of which are actively involved in what is a truly family-run restaurant.\nThanks to his incredible knowledge of tequila and amazing bartending skill, Julio has become a legend in the drinks industry."
+            },
+            
+            {
+                "id":               "whiskey-sour",
+                "name":             "Whiskey Sour",
+                "origin":           "U.S.A.",
+                "description":      "CREAMY, LIGHT, CITRUSY",
+                "category":         "On the rocks",
+                "glass":            "Rock glass",
+                "instructions":     "Pour all ingredients into cocktails shaker, shake well without ice, add ice to the shaker, shake for at least 10 seconds and fine strain inside the tin, add egg white or alternative and give it another vigorous shake without ice and then pour it in a rock glass and garnish.",
+                "method":           "Reverse dry shake",
+                "ice":              "Cubed ice",
+                "ingredients":
+                [
+                    "Bourbon Whiskey",
+                    "Lemon juice",
+                    "Sugar syrup",
+                    "Egg white or alternative"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "25 ml",
+                    "20 ml",
+                    "1"
+                ],
+                "garnish":          "Angostura bitters drops",
+                "history":          "The first written recipe of this drink appeared in 1862, when it was included in Jerry Thomas’ “The Bartender’s Guide”.\nThe truth is that is very likely that sours had existed for many decades prior, as they were really popular amongst sailors. By spending long months at seas, sailors ran a major risk of malnutrition and scurvy. Eating citrus is an effective way to combat scurvy, so ships often left port with a lot of ratios of lemon, lime and oranges for sailors to eat. Given that refrigeration was not available, sailors used to take liquors like rum, whiskey and gin on ships to have something safe to drink in those long journeys. Over time, the citrus (mostly lime and lemons) were mixed with a liquor and water to create a drink that would quench thirst and prevent scurvy."
+            },
+            
+            {
+                "id":               "white-russian",
+                "name":             "White Russian",
+                "origin":           "U.S.A.",
+                "description":      "CREAMY, BOOZY, VELVETY",
+                "category":         "On the rocks",
+                "glass":            "Rock glass",
+                "instructions":     "Pour the first two ingredients into a rock glass filled with ice cubes. Stir gently. Pour the fresh cream on top of the ice to make it float.",
+                "method":           "Build in",
+                "ice":              "Cubed ice",
+                "ingredients":
+                [
+                    "Vodka",
+                    "Coffee liqueur",
+                    "Fresh Cream"
+                ],
+                "measures":
+                [
+                    "35 ml",
+                    "35 ml",
+                    "35 ml"
+                ],
+                "garnish":          "",
+                "history":          "The traditional cocktail known as a Black Russian, which first appeared in 1949, becomes a White Russian with the addition of cream. Neither drink is Russian in origin, but both are so named due to vodka being the primary ingredient.\nNonetheless this cocktail saw a surge of popularity after the 1998 release of the film “The Big Lebowski“. Throughout the movie it appears to be the cocktail of choice for Jeffrey “The Dude” Lebowski, the main character, and on a number of occasions he refers to it as “Caucasian”."
+            }
+        ]
+    },
+    
+    
+    {
+        "id": "long-drink",
+        "name": "Long drink",
+        "glassInfo": "This category refers to cocktails served in a tall glass over an ice spear, cubed ice or crushed ice.\nThe most iconic cocktails served in this type of glass are Mojito, Piña Colada & Bloody Mary.\n\nThe capacity of this kind of glasses  usually goes from 220 ml to 350 ml.",
+        "cocktails":
+        [
+            {
+                "id":               "americano",
+                "name":             "Americano",
+                "origin":           "Italy",
+                "description":      "LIGHT, BITTERSWEET, EYE OPENER",
+                "category":         "Long drink",
+                "glass":            "Highball",
+                "instructions":     "Mix the ingredients directly in a highball filled with ice cubes. Top with soda and stir gently to mix the ingredients together.",
+                "method":           "Build in",
+                "ice":              "Cubed ice",
+                "ingredients":
+                [
+                    "Campari bitter",
+                    "Sweet Red Vermouth",
+                    "Soda water"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "50 ml",
+                    "Top with"
+                ],
+                "garnish":          "Orange slice",
+                "history":          "Although it is very likely that it was born as a variation of the Milano-Torino, there are some hypotheses regarding its creation. One of these hypotheses dates back to 1933, the drink would have been created in homage to the boxer Primo Carnera known as 'the Americano' for his successes in the USA. According to some sources, even the political propaganda of the time pushed a lot on this association between the Italian boxer and his ingredients, all of Italian origin.\nAnother hypothesis suggests that its creation was a marketing manoeuvre by the Martini & Rossi brand for the export of their vermouth to the United States."
+            },
+            
+            {
+                "id":               "aperol-spritz",
+                "name":             "Aperol Spritz",
+                "origin":           "Italy",
+                "description":      "LIGHT, REFRESHING, BITTERSWEET",
+                "category":         "Long drink",
+                "glass":            "Wine glass",
+                "instructions":     "Pour all the ingredients inside a chilled wine glass fill with ice, garnish and stir gently to mix the ingredients together.",
+                "method":           "Build in",
+                "ice":              "Cubed ice",
+                "ingredients":
+                [
+                    "Prosecco wine",
+                    "Aperol liqueur",
+                    "Soda water"
+                ],
+                "measures":
+                [
+                    "75 ml",
+                    "50 ml",
+                    "25 ml"
+                ],
+                "garnish":          "Orange slice",
+                "history":          "The origin of the spritz is traced back to the custom of the troops of the Austrian Empire stationed in the Lombard-Veneto Kingdom of extending local wines, of high alcohol content, with seltz or sparkling water.\nThe origin of the name derives from the German-Austrian verb 'spritzer', which means 'to sprinkle'.\nAs a cocktail, the spritz was presumably born between 1920s and 1930s around Venice and Padua, when it was thought of combining that custom with Aperol or Select."
+            },
+            
+            {
+                "id":               "bloody-mary",
+                "name":             "Bloody Mary",
+                "origin":           "France",
+                "description":      "SALTY, SPICY, FULFILLING",
+                "category":         "Long drink",
+                "glass":            "Highball",
+                "instructions":     "Put all the ingredients inside of the big part of the shaker, fill in with ice and with the help of a strainer pour everything into the smaller part. Keep doing this process until the cocktail is ice cold and reaches the desired consistency.",
+                "method":           "Throw",
+                "ice":              "Cubed ice",
+                "ingredients":
+                [
+                    "Vodka",
+                    "Tomato juice",
+                    "Lemon juice",
+                    "Salt",
+                    "Pepper",
+                    "Worcestershire sauce",
+                    "Tabasco"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "100 ml",
+                    "20 ml",
+                    "pinch of",
+                    "to taste",
+                    "to taste",
+                    "to taste"
+                ],
+                "garnish":          "Lemon wheel, pickles, olives, celery.. Do as you like",
+                "history":          "The Bloody Mary was invented between the 20s and 30s and there are various theories as to the origin of the drink and its name.\nThe French bartender Fernand Petiot claimed to have invented it in 1921, when he was working at Harry’s New York Bar in Paris.\nSome says it was invented in 1930 by Henry Zbikiwicz at New York’s bar “21 Club” and other attributes its invention to the comedian George Jessel, who frequented the same bar.\n\nThere are different stories for the name as well, but my favorite one is George Jessel’s autobiography “The World I Live In”, recalling a particularly long night in Palm Beach back in 1927. By 8 am, still awake and nursing a hangover, George mixed up vodka with tomato juice and spices for himself and his friends. Once handed a glass to socialite Mary Brown Warburton, still in a white dress from the night before, she promptly spilled it down the front of the dress, exclaiming, “Now you can call me Bloody Mary, George!”"
+            },
+            
+            {
+                "id":               "campari-spritz",
+                "name":             "Campari Spritz",
+                "origin":           "Italy",
+                "description":      "LIGHT, REFRESHING, BITTERSWEET",
+                "category":         "Long drink",
+                "glass":            "Wine glass",
+                "instructions":     "Pour all the ingredients inside a chilled wine glass fill with ice, garnish and stir gently to mix the ingredients together.",
+                "method":           "Build in",
+                "ice":              "Cubed ice",
+                "ingredients":
+                [
+                    "Prosecco wine",
+                    "Campari bitter",
+                    "Soda water"
+                ],
+                "measures":
+                [
+                    "75 ml",
+                    "50 ml",
+                    "25 ml"
+                ],
+                "garnish":          "Orange slice",
+                "history":          "The Campari group, after the great success of the Aperol Spritz, decides to commission a spot focused on the Spritz: Two girls in a car are blocked by a crowd of people gathered for an aperitif. One of the two, with fiery red hair, gets up from the roof of the car and mimics the gesture of the seltzer in the glass, a bit like the Austro-Hungarian soldiers did. In a very short time, the whole crowd began to make the same gesture and ask for Spritz to the notes of 'Street Life' by Randy Crawford And The Crusaders which for the occasion becomes 'Spritz life'."
+            },
+            
+            {
+                "id":               "gin-fizz",
+                "name":             "Gin Fizz",
+                "origin":           "U.K.",
+                "description":      "RICH BOTANICALS, REFRESHING, DRY",
+                "category":         "Long drink",
+                "glass":            "Highball",
+                "instructions":     "Pour the first 3 ingredients inside of a shaker, fill it with ice and shake. Double strain it into a highball with cubed ice and top it off with soda water.",
+                "method":           "Shake and strain",
+                "ice":              "Cubed ice",
+                "ingredients":
+                [
+                    "London Dry Gin",
+                    "Sugar syrup",
+                    "Lemon juice",
+                    "Soda water"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "25 ml",
+                    "25 ml",
+                    "top with"
+                ],
+                "garnish":          "Garnish with lemon slice and luxardo cherry (optional)",
+                "history":          "The earliest publication of any Fizz, as well as any Collins recipe, are both located in the same book, Harry Johnson's 1882 “New and Improved Bartender’s Manual” or “How to Mix Drinks of the Present Style”. The book includes a Tom Collins calling for Old Tom Gin and a John Collins calling for Holland Gin, most likely what is known as Genièvre.\nCocktail historian David Wondrich stated that there are several other earlier mentions of this version of the drink and that it does bear a striking resemblance to the gin punches served at London clubs like the Garrick in the first half of the 19th century."
+            },
+
+            
+            {
+                "id":               "mojito",
+                "name":             "Mojito",
+                "origin":           "Cuba",
+                "description":      "REFRESHING, MINTY, CITRUSY",
+                "category":         "Long drink",
+                "glass":            "Highball",
+                "instructions":     "Put all your liquid ingredient into the glass, grab and slap your mint leaves and add them into the glass, full-fill the glass with pebble ice, with a bar spoon churn for about 10 seconds, add a splash of soda water and give it a nice pebble ice cap.",
+                "method":           "Build in",
+                "ice":              "Pebble ice",
+                "ingredients":
+                [
+                    "Rum",
+                    "Lime juice",
+                    "Sugar syrup",
+                    "Mint leaves",
+                    "Soda water"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "25 ml",
+                    "15 ml",
+                    "10-12",
+                    "Splash of"
+                ],
+                "garnish":          "Mint sprig & lime wedge",
+                "history":          "Havana, Cuba, is the birthplace of the mojito, although its exact origin is the subject of debate, and its popularity began with Ernest Hemingway during his time in Cuba.\nIt is said that the original Mojito was a medical drink to curb disease on the island of Cuba and its main spirit was a moonshine rum-type.\nWhen pirates invaded Cuba the drink was introduced to Pirate Drake where he promptly switch the moonshine with rum. The drink took on the name “El Draque” until it took the name Mojito we now know."
+            },
+                                    
+            {
+                "id":               "paloma",
+                "name":             "Paloma",
+                "origin":           "Mexico",
+                "description":      "REFRESHING, BITTERSWEET, BOOZY",
+                "category":         "Long drink",
+                "glass":            "Highball",
+                "instructions":     "Shake all ingredients with ice except soda water. Fine strain into a highball full with cubed ice and top it off soda water.",
+                "method":           "Shake and strain",
+                "ice":              "Cubed ice",
+                "ingredients":
+                [
+                    "Tequila",
+                    "Lime juice",
+                    "Sugar syrup",
+                    "Grapefruit juice",
+                    "Soda Water"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "25 ml",
+                    "20 ml",
+                    "50 ml",
+                    "top with"
+                ],
+                "garnish":          "Grapefruit wedge or slice",
+                "history":          "The history of Paloma is obscure - no one knows for sure who invented it.\nSome credit the legendary Don Javier Delgado Corona, owner of 'La Capilla' bar in town of Tequila in Jalisco, Mexico. Don Javier is also the inventor of another tequila based cocktail called Batanga, which is a mix of tequila, lime juice and Coca-Cola."
+            },
+                        
+            {
+                "id":               "pina-colada",
+                "name":             "Piña Colada",
+                "origin":           "Puerto Rico",
+                "description":      "FRESH, SWEET, SUMMERY",
+                "category":         "Long drink",
+                "glass":            "Highball",
+                "instructions":     "Pour all the ingredients inside a shaker with a little scoop of pebble ice, shake for a couple of seconds and pour inside a chilled highball. Top it off with pebble ice and garnish.",
+                "method":           "Shake and dump",
+                "ice":              "Pebble ice",
+                "ingredients":
+                [
+                    "Coconut Rum (at least 38% ABV)",
+                    "Pineapple juice",
+                    "Coconut syrup",
+                    "Lime juice"
+                ],
+                "measures":
+                [
+                    "60 ml",
+                    "50 ml",
+                    "20 ml",
+                    "10 ml"
+                ],
+                "garnish":          "Pineapple chunk, lime wheel, or lemon, and pineapple leaf",
+                "history":          "Piña Colada hails from San Juan, Puerto Rico where it was created by Ramón “Monchito” Marrero at the Caribe Hilton in 1954. By simply mixing up a fruity blend of rum, coconut cream and pineapple juice and BOOM! Everyone’s favorite summer treat was created.\nPiña Colada has been declared the official drink of Puerto Rico in 1978 and right now is one of the best cocktail coming from a Hilton Hotel."
+            },
+            
+            {
+                "id":               "zombie",
+                "name":             "Zombie",
+                "origin":           "U.S.A.",
+                "description":      "BOOZY, FRUITY, RUM FUNKINESS",
+                "category":         "Long drink",
+                "glass":            "Highball",
+                "instructions":     "Shake all ingredients with ice except overproof Rum. Fine strain into a chilled highball and fill it with pebble ice.\nGarnish with the shell of half lime, pour inside it 10 ml of overproof rum and a little bit of granulated sugar and light it on fire.",
+                "method":           "Shake and strain",
+                "ice":              "Pebble ice",
+                "ingredients":
+                [
+                    "Jamaican Dark Rum",
+                    "Golden Rum",
+                    "Overproof Rum",
+                    "Lime juice",
+                    "Velvet Falernum",
+                    "Pineapple juice",
+                    "Cinnamon syrup",
+                    "Angostura bitters"
+                ],
+                "measures":
+                [
+                    "35 ml",
+                    "25 ml",
+                    "10 ml",
+                    "20 ml",
+                    "15 ml",
+                    "50 ml",
+                    "15 ml",
+                    "2 dashes"
+                ],
+                "garnish":          "Mint sprig and flaming lime shell or half passionfruit",
+                "history":          "This cocktail was invented in 1934 by Ernest Raymond Beaumont Gantt, better known as Donn the Beachcomber. Tales of its origin vary widely and Donn himself was likely responsible for many of the stories.\nThe funniest but likely untrue story is that it was the result of throwing something together for a business man who asked for help with his hangover and to get him through a tough meeting. The customer lately reported back to Donn that he felt like the living dead “it made a zombie out of me”.\nThe drink’s recipe has been unknown for many years, thanks to Donn’s ingenious system of maintaining ingredients secrecy. However, thanks to the tireless work of tiki revivalist Jeff “BeachBum” Berry, we can now mix up our own Zombie in the comfort and safety of our home."
+            }
+        ]
+    },
+    
+    
+    {
+        "id": "short-drink",
+        "name": "Short drink",
+        "glassInfo": "This category refers to cocktails served in a coupette/martini glass or flute, generally served without ice.\nThe most iconic cocktails served in this type of glass are all the Martini and variations, Cosmopolitan & Margarita.\n\nThe capacity of this kind of glasses usually goes from 100 ml to 250 ml.",
+        "cocktails":
+        [
+            {
+                "id":               "bellini",
+                "name":             "Bellini",
+                "origin":           "Italy",
+                "description":      "REFRESHING, FRUITY, SPARKLING",
+                "category":         "Short drink",
+                "glass":            "Flute",
+                "instructions":     "Pour peach puree into the mixing glass with ice, add the Prosecco wine, stir gently and pour in a chilled flute glass.",
+                "method":           "Stir",
+                "ice":              "No ice",
+                "ingredients":
+                [
+                    "Prosecco",
+                    "Peach puree"
+                ],
+                "measures":
+                [
+                    "100 ml",
+                    "50 ml"
+                ],
+                "garnish":          "",
+                "history":          "The Bellini was invented in 1948 by Giuseppe Cipriani, head bartender at Harry's Bar in Venice who named the cocktail after the Venetian painter because of its pink color that reminded Cipriani of the color of a tailor's toga in a painting by Giovanni “il Giambellino” Bellini.\nThe drink became a seasonal specialty of Harry's Bar, a favorite of Ernest Hemingway, Gianni Agnelli, Sinclair Lewis and Orson Welles.\nAfter a French entrepreneur set up a trade route to transport peach pulp to the US, Bellini also became very popular at Harry's Bar in New York. In a short time it also became a classic and today it is a popular cocktail in bars around the world."
+            },
+            
+            {
+                "id":               "bucks-fizz",
+                "name":             "Buck's Fizz",
+                "origin":           "U.K.",
+                "description":      "CITRUSY, DRY, REFRESHING",
+                "category":         "Short drink",
+                "glass":            "Flute",
+                "instructions":     "Pour orange juice into the mixing glass with ice, add the Champagne, stir gently and pour in a chilled flute glass.",
+                "method":           "Stir",
+                "ice":              "No ice",
+                "ingredients":
+                [
+                    "Champagne",
+                    "Orange juice"
+                ],
+                "measures":
+                [
+                    "100 ml",
+                    "50 ml"
+                ],
+                "garnish":          "",
+                "history":          "The drink is named after London's Buck's Club, where it was invented as an excuse to begin drinking early; it was first served in 1921 by a barman named Malachy McGarry.\nTraditionally, the Buck’s Fizz is made by mixing two parts champagne and one part orange juice. Some older recipes list for grenadine as an additional ingredient, but the International Bartenders Association cocktail recipe does not include it."
+            },
+            
+            {
+                "id":               "champagne-cocktail",
+                "name":             "Champagne Cocktail",
+                "origin":           "U.S.A.",
+                "description":      "TASTY, COMPLEX, CLASSY",
+                "category":         "Short drink",
+                "glass":            "Flute",
+                "instructions":     "Place the sugar cube with 2 dashes of bitters in a flute, muddle for a little bit, add cognac and gently pour ice cold Champagne.",
+                "method":           "Build in",
+                "ice":              "No ice",
+                "ingredients":
+                [
+                    "Champagne",
+                    "Cognac",
+                    "Sugar cube",
+                    "Angostura bitters"
+                ],
+                "measures":
+                [
+                    "100 ml",
+                    "20 ml",
+                    "1",
+                    "2 dashes"
+                ],
+                "garnish":          "Lemon zest",
+                "history":          "The origin of this drink are lost in the mists of bartending time that “dates from the Iron Age of American mixology” - between the invention of cocktails and the first cocktail book published in 1862.\nThe first written mention of this cocktail actually appears in the book “Panama in 1855” by Robert Tomes, where he writes in some detail how to make it. What is really interesting is that not only this proves that Champagne Cocktails  were being made before 1855, but also the drink was made in a tumbler, over crushed ice and without cognac/brandy."
+            },
+
+            {
+                "id":               "clover-club",
+                "name":             "Clover Club",
+                "origin":           "U.S.A.",
+                "description":      "TART, FRUITY, REFRESHING",
+                "category":         "Short drink",
+                "glass":            "Coupette",
+                "instructions":     "Pour all ingredients into cocktails shaker, shake well without ice, add ice to the shaker, shake for at least 10 seconds and fine strain into chilled coupette.",
+                "method":           "Reverse dry shake",
+                "ice":              "No ice",
+                "ingredients":
+                [
+                    "London Dry Gin",
+                    "Raspberry syrup",
+                    "Lemon juice",
+                    "Egg white or alternative"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "25 ml",
+                    "20 ml",
+                    "1"
+                ],
+                "garnish":          "Fresh raspberry on a cocktail stick",
+                "history":          "The Clover Club Cocktail is a drink that pre-dates Prohibition in the United States, and is named for the Philadelphia men's club of the same name, which met in the Bellevue-Stratford Hotel at South Broad and Walnut Streets in Center City. The Clover Club itself dates to 1896, as seen in the 1897 book, “The Clover Club of Philadelphia”, by Mary R. Deacon.\nPublished recipes for this cocktail appear as early as 1917 inside the book “The Ideal Bartender” by Thomas Bullock."
+            },
+
+            {
+                "id":               "cosmopolitan",
+                "name":             "Cosmopolitan",
+                "origin":           "U.S.A.",
+                "description":      "CITRUSY, FRUITY, EASY TO DRINK",
+                "category":         "Short drink",
+                "glass":            "Coupette",
+                "instructions":     "Pour all the ingredients inside a shaker, add ice and shake well until ice cold. Fine strain it inside a chilled coupette and garnish.",
+                "method":           "Shake and strain",
+                "ice":              "No ice",
+                "ingredients":
+                [
+                    "Citron Vodka",
+                    "Cointreau",
+                    "Lime juice",
+                    "Cranberry juice"
+                ],
+                "measures":
+                [
+                    "40 ml",
+                    "25 ml",
+                    "20 ml",
+                    "50 ml"
+                ],
+                "garnish":          "Orange flambé",
+                "history":          "Bartending legend Dale “King Cocktail” DeGroff came across the Cosmopolitan at the Fog City Diner in San Francisco in the early mid 1990s and back in Manhattan, started perfecting his own recipe at the Rainbow Rooms adding his now signature flamed orange zest twist as garnish.\nDave has never claimed to have invented the Cosmopolitan and in his own 2002 book, “The Craft of Cocktail” he explains that while he did not invent the Cosmopolitan, “What I did do was popularise a definitive recipe that became widely accepted as the standard”.\nA huge gain in popularity also came thanks to the film “Sex and the City” in 2008. The TV show frequently showed the characters sipping Cosmos and questioning why they had ever stopped drinking them."
+            },
+
+            {
+                "id":               "daiquiri",
+                "name":             "Daiquiri",
+                "origin":           "Cuba",
+                "description":      "TOASTY SUGAR, TART, LIGHT",
+                "category":         "Short drink",
+                "glass":            "Coupette",
+                "instructions":     "Pour all the ingredients inside a shaker, add ice and shake well until ice cold. Fine strain it inside a chilled coupette.",
+                "method":           "Shake and strain",
+                "ice":              "No ice",
+                "ingredients":
+                [
+                    "Rum",
+                    "Lime juice",
+                    "Sugar syrup"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "25 ml",
+                    "15 ml"
+                ],
+                "garnish":          "",
+                "history":          "While most vintage drinks lack documentation proving their precise point of creation, the daiquiri's origin is backed up by an actual cocktail recipe card signed by 'Jennings Cox' in 1896.\nCox, an American engineer who lived and worked in Cuba after the Spanish-American War, is believed to have invented the daiquiri after running out of gin while throwing a cocktail party. Since rum is plentiful in the country, it proved a convenient substitute in a punch he was serving. Unlike what's stated on his recipe card, the drink was made with limes and brown sugar. It turned out to be a huge hit, and Cox christened it the 'Daiquiri', naming the drink after a nearby port town, which also happened to be where the U.S. first invaded Cuba during the Spanish-American War.\nHowever, considering the island has a bounty of lime, sugar, and rum, it's likely that Cox was merely the first to pen the recipe of a cocktail that had already existed in Cuba. Not to mention that a prototype of the daiquiri had been saving the British Royal Navy from scurvy for centuries before."
+            },
+            
+            {
+                "id":               "hemingway-daiquiri",
+                "name":             "Hemingway Daiquiri",
+                "origin":           "Cuba",
+                "description":      "FRESH, DRY, CITRUSY",
+                "category":         "Short drink",
+                "glass":            "Coupette",
+                "instructions":     "Pour all ingredients into a shaker with ice. Shake well and fine strain into a chilled coupette.",
+                "method":           "Shake and strain",
+                "ice":              "No ice",
+                "ingredients":
+                [
+                    "Rum",
+                    "Grapefruit juice",
+                    "Maraschino liqueur",
+                    "Lime juice"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "35 ml",
+                    "20 ml",
+                    "20 ml"
+                ],
+                "garnish":          "",
+                "history":          "The Hemingway Daiquiri was invented when, one fateful day, Hemingway stepped into a bar called “El Floridita” in Havana, Cuba, to use the restroom. Upon emerging, Hemingway caught sight of a lineup of frosty Daiquiris on the bar. He asked if he could try one, and the bartender, smartly, said yes (Hemingway was a large, burly man). Hemingway’s verdict: “That’s good, but I prefer it without the sugar and double rum.” The bartender mixed one up to his specifications on the spot and Hemingway loved it. It was named the Papa Doble but Hemingway referred to it as a Double Frozen Daiquiri.\nThis was the drink he slurped down by the dozens.. literally. He once drank 17 in one day, and according to a letter Hemingway wrote to writer Harvey Breit, he didn’t even get a hangover. In the correspondence, Hemingway implies that the cocktail’s sugar-free preparation and a steak sandwich were to thank."
+            },
+            
+            {
+                "id":               "french-75",
+                "name":             "French 75",
+                "origin":           "France",
+                "description":      "SPARKLING, LIGHT, REFRESHING",
+                "category":         "Short drink",
+                "glass":            "Flute",
+                "instructions":     "Pour all the ingredients, except Champagne, into a shaker. Shake well and fine strain into a chilled flute. Top it up with Champagne.",
+                "method":           "Shake and strain",
+                "ice":              "No ice",
+                "ingredients":
+                [
+                    "London Dry Gin",
+                    "Lemon juice",
+                    "Sugar syrup",
+                    "Champagne"
+                ],
+                "measures":
+                [
+                    "35 ml",
+                    "15 ml",
+                    "15 ml",
+                    "top with"
+                ],
+                "garnish":          "Lemon zest",
+                "history":          "One of the first recorded recipe for this drink comes from The Savoy Cocktail book, 1930, but the true nature of its origin is slightly muddled.\nOne school of thought believed that Scot Harry MacElhone, owner of Harry’s American Bar in Paris, named the drink in 1926. The inspiration for the title was apparently a 75mm Howitzer field gun used by the French and the Americans in World War 1. The gun was known for its accuracy and speed, and the French 75 is said to have such a kick that it felt like being hit by just such a weapon.\nHowever, the cocktail’s history delves back further than the 1920s. Charles Dickens used to feed Tom gin and champagne cups to his callers in as far back as 1867 and there are many stories from the 19th Century of noble gentlemen, like the Prince of Wales, enjoying similar concoctions."
+            },
+            
+            {
+                "id":               "gimlet",
+                "name":             "Gimlet",
+                "origin":           "U.K.",
+                "description":      "BOOZY, CITRSY, REFRESHING",
+                "category":         "Short drink",
+                "glass":            "Martini glass",
+                "instructions":     "Pour all the ingredients inside a mixing glass with ice, stir well and strain it inside a chilled martini glass.",
+                "method":           "Stir",
+                "ice":              "No ice",
+                "ingredients":
+                [
+                    "London Dry Gin",
+                    "Lime cordial",
+                    "Peychaud’s bitters"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "20 ml",
+                    "3 dashes"
+                ],
+                "garnish":          "",
+                "history":          "This cocktail rose popularity after it was mentioned in the 1953 Raymond Chandler novel “The Long Goodbye” where the main character, Philip Marlowe said “A real gimlet is half gin and half Rose’s Lime Juice and nothing else. It beats Martinis hollow”.\nBefore this drink became popular it is believed that it was served to the sailors in the British Royal Navy as a means of fighting scurvy. Rose’s Lime Juice was created in 1867 as a way to preserve lime juice without alcohol. By mixing the juice with Navy Strength Gin the gimlet was born and by the mid-20th century the Gimlet was a popular cocktail with naval officers and in British society."
+            },
+
+            {
+                "id":               "manhattan",
+                "name":             "Manhattan",
+                "origin":           "U.S.A.",
+                "description":      "BOOZY, SPICED, DANGEROUSLY DELICIOUS",
+                "category":         "Short drink",
+                "glass":            "Martini glass",
+                "instructions":     "Put the ingredients inside a mixing glass, fill it with ice and stir for at least 15 seconds, pour inside a chilled martini glass and garnish.",
+                "method":           "Stir",
+                "ice":              "No ice",
+                "ingredients":
+                [
+                    "Rye Whiskey",
+                    "Sweet Red Vermouth",
+                    "Angostura bitters"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "25 ml",
+                    "2 dashes"
+                ],
+                "garnish":          "Luxardo cherry",
+                "history":          "As with many classics, the origin story of this cocktail is lost in time. The most popular theory is that the recipe was invented by Dr. Iain Marshall in the early 1880s for a party hosted by Lady Randolph Churchill, the mother of Winston Churchill. The main reason for the name of the drink is because this party was held in the Manhattan Club in New York. Later on, this theory was pronounced as a myth because, during that time, Lady Randolph Churchill was pregnant and was in England.\nThe 1923 book entitled “Valentine’s Manual of New York” presented a more plausible story when it stated that a bartender at New York’s Hoffman House by the name of William F. Mulhall recounted, during the 1880s, that the Manhattan cocktail was invented by a man named Black who kept a place ten doors below Houston Street on Broadway."
+            },
+            
+            {
+                "id":               "margarita",
+                "name":             "Margarita",
+                "origin":           "Mexico",
+                "description":      "FRESH, TART, BOOZY",
+                "category":         "Short drink",
+                "glass":            "Coupette",
+                "instructions":     "Pour all the ingredients inside a shaker, add ice and shake well until ice cold. Fine strain it inside a chilled coupette and garnish.",
+                "method":           "Shake and strain",
+                "ice":              "No ice",
+                "ingredients":
+                [
+                    "Tequila",
+                    "Cointreau",
+                    "Lime juice",
+                    "Sugar syrup"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "25 ml",
+                    "25 ml",
+                    "5 ml"
+                ],
+                "garnish":          "Salt rim",
+                "history":          "Margarita is the Spanish word for “daisy”, and it is probable that this cocktail is simply a tequila-based Daisy, a style of drink that dates back to Victorian times.\nThere are many people who either claim to have invented or named the Margarita. The following are the most notable:\n\nDaniele Negrete is said to have created the drink for his girlfriend, Margarita, as a present back in 1936 when he was the manager of Graci Crespo Hotel in Puebla, Mexico. In 1944 Daniel moved to Tijuana, Mexico, and became a bartender at the Agua Caliente Racetrack, a place which claims to be the birthplace of the Margarita in the early 1930s.\n\nVernon Underwood was president of Young’s Market Company, which in the 1930s has started distributing Cuervo Tequila in America. He asked Johnny Durlesser, head bartender of the Tail O’ The Clock in Los Angeles to create something with that product, and then he named this creation after his wife, Margaret (Margarita)."
+            },
+            
+            {
+                "id":               "dirty-martini",
+                "name":             "Dirty Martini",
+                "origin":           "U.S.A.",
+                "description":      "BOOZY, REFRESHING, DRY",
+                "category":         "Short drink",
+                "glass":            "Martini glass",
+                "instructions":     "Put the ingredients inside a mixing glass, fill it with ice and stir for at least 15 seconds, pour inside a chilled martini glass and garnish.",
+                "method":           "Stir",
+                "ice":              "No ice",
+                "ingredients":
+                [
+                    "London Dry Gin",
+                    "Dry Vermouth",
+                    "Olive brine",
+                    "Orange bitters"
+                ],
+                "measures":
+                [
+                    "60 ml",
+                    "10 ml",
+                    "5 - 10 ml",
+                    "3 dashes"
+                ],
+                "garnish":          "One or three olives on a cocktail stick",
+                "history":          "The Dirty Martini is a cocktail that comes straight from the Vodka Martini, a cocktail made famous by James Bond (played by Sean Connery) with the famous phrase “Shaken, not stirred”.\nThis drink was also the favorite of the president of the United States Franklin Delano Roosevelt, famous for having abolished prohibition, who also offered this cocktail to the Soviet leader Stalin.\nAnother US president who loved this cocktail was Bill Clinton, who gave the drink back notoriety, as he used to request a Vodka Martini 'soiled' with the brine of the olives, a request he also made during a public event at the World Trade Center Bar in New York City."
+            },
+
+            {
+                "id":               "dry-martini",
+                "name":             "Dry Martini",
+                "origin":           "U.S.A.",
+                "description":      "BOOZY, REFRESHING, DRY",
+                "category":         "Short drink",
+                "glass":            "Martini glass",
+                "instructions":     "Put the ingredients inside a mixing glass, fill it with ice and stir for at least 15 seconds, pour inside a chilled martini glass and garnish.",
+                "method":           "Stir",
+                "ice":              "No ice",
+                "ingredients":
+                [
+                    "London Dry Gin",
+                    "Dry Vermouth",
+                    "Orange bitters"
+                ],
+                "measures":
+                [
+                    "60 ml",
+                    "10 ml",
+                    "3 dashes"
+                ],
+                "garnish":          "Either a lemon twist or an olive on a cocktail stick",
+                "history":          "There are numerous hypotheses regarding the birth of perhaps one of the most famous cocktail in the world; however, it is well known that the name of the drink is not linked to the famous Martini brand.\nThe most plausible theory tells that the cocktail was created by a certain Martini from Arma di Taggia, who first served the drink in 1910 in New York at the Knickerbocker Hotel in honor of John D. Rockefeller.\nAccording to others, the drink was served even earlier, in the USA, in Martinez, California, or in New Orleans by the barman Martinez, around the end of the 1800s.\nThe oldest hypothesis goes back to the 1860 where the barman Jerry Thomas served the  very first Dry Martini to a customer traveling to the city of Martinez."
+            },
+            
+            {
+                "id":               "espresso-martini",
+                "name":             "Espresso Martini",
+                "origin":           "U.K.",
+                "description":      "SMOOTH, EYE OPENER, COFFEE FORWARD",
+                "category":         "Short drink",
+                "glass":            "Coupette",
+                "instructions":     "Pour all the ingredients inside a shaker with ice, shake well and fine strain it inside a chilled coupette.",
+                "method":           "Shake and strain",
+                "ice":              "No ice",
+                "ingredients":
+                [
+                    "Vanilla Vodka",
+                    "Coffee liqueur",
+                    "Espresso coffee",
+                    "Vanilla syrup"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "25 ml",
+                    "50 ml",
+                    "10 ml"
+                ],
+                "garnish":          "Three coffee beans",
+                "history":          "This cocktail was invited by Dick Bradsell back in 1983 at the Soho Brasserie. Its original name was “Vodka Espresso”, then called “Pharmaceutical Stimulant” and finally “Espresso Martini”.\nDick Bradsell is credited with revolutionizing the cocktail scene in London during that time, through his work at bars such as The Player, 6 Degrees and Match - and the invention of the Bramble.\nThe story goes that Bradsell created the drink when a young model sidled up to the bar and asked for something to “wake me up and fuck me up”. His solution was a combination of vodka, fresh espresso, coffee liqueur and sugar, shaken into a frothy mix of bittersweet addiction."
+            },
+            
+            {
+                "id":               "gin-martini",
+                "name":             "Gin Martini",
+                "origin":           "Italy",
+                "description":      "DRY, BOOZY, STRONG BOTANICALS",
+                "category":         "Short drink",
+                "glass":            "Martini glass",
+                "instructions":     "Put the ingredients inside a mixing glass, fill it with ice and stir for at least 15 seconds, pour inside a chilled martini glass and garnish.",
+                "method":           "Stir",
+                "ice":              "No ice",
+                "ingredients":
+                [
+                    "London Dry Gin",
+                    "Dry Vermouth",
+                    "Orange bitters"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "20 ml",
+                    "3 dashes"
+                ],
+                "garnish":          "Either a lemon twist or an olive on a cocktail stick",
+                "history":          "The exact origin of the martini is unclear, as usual. The name may derive from the Martini brand of vermouth. Another popular theory suggest that it evolved from a cocktail called Martinez served in the early 1860s at the Occidental Hotel in San Francisco, which people frequented before taking the ferry to a town nearby called Martinez."
+            },
+            
+            {
+                "id":               "pornstar-martini",
+                "name":             "Pornstar Martini",
+                "origin":           "U.K.",
+                "description":      "FRUITY, SWEET, DANGEROUSLY DELICIOUS",
+                "category":         "Short drink",
+                "glass":            "Coupette",
+                "instructions":     "Pour all the ingredients, except the prosecco, inside a shaker with ice, shake well and fine strain it inside a chilled coupette. serve with a shot of prosecco on the side.",
+                "method":           "Shake and strain",
+                "ice":              "No ice",
+                "ingredients":
+                [
+                    "Vanilla Vodka",
+                    "Passionfruit puree",
+                    "Passionfruit juice",
+                    "Vanilla syrup",
+                    "Lime juice",
+                    "Prosecco wine"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "35 ml",
+                    "35 ml",
+                    "20 ml",
+                    "5 ml",
+                    "Shot of"
+                ],
+                "garnish":          "Half passionfruit and the shot of prosecco",
+                "history":          "Douglas Ankrah is the creator of this provocative, playful and “tongue-in-cheek as a call” cocktail, made at LAB Bar in the Soho area in London. This mix of vanilla vodka, passion fruit and champagne, creates an exotic balance of flavours easy to consume.\nWhat was really unexpected , when he first made this drink, is that its popularity would endure for nearly two decades, to the point where in 2019 it was reported as the most-ordered cocktail in the entire United Kingdom."
+            },
+                        
+            {
+                "id":               "vodka-martini",
+                "name":             "Vodka Martini",
+                "origin":           "U.S.A.",
+                "description":      "BOOZY, REFRESHING, VELVETY",
+                "category":         "Short drink",
+                "glass":            "Martini glass",
+                "instructions":     "Put the ingredients inside a mixing glass, fill it with ice and stir for at least 30 seconds, pour inside a chilled martini glass and garnish.",
+                "method":           "Stir",
+                "ice":              "No ice",
+                "ingredients":
+                [
+                    "Vodka",
+                    "Dry Vermouth",
+                    "Orange bitters"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "20 ml",
+                    "3 dashes"
+                ],
+                "garnish":          "Either a lemon twist or an olive on a cocktail stick",
+                "history":          "While there were many different cocktails circulating under the name ‘Martini’ in the 1890s, the first thing that looks remotely like today’s Martini was the recipe for a ‘Marguerite’ given in the 1904 book ‘Stuart’s Fancy Drinks and How to Mix Them’, which called for two parts Plymouth (dry) gin, one part French (dry) vermouth, and a dash of orange bitters.\nVersions of the Martini cocktail given after this date tend to cleave to the formula of dry gin and dry vermouth, and it was this version of the drink that became popular in the early 20th century, before the prohibition of liquor in the United States (1920 – 1933)."
+            },
+            
+            {
+                "id":               "mimosa",
+                "name":             "Mimosa",
+                "origin":           "Italy",
+                "description":      "CITRUSY, SWEET, REFRESHING",
+                "category":         "Short drink",
+                "glass":            "Flute",
+                "instructions":     "Pour orange juice into the mixing glass with ice, add the Prosecco wine, stir gently and pour in a chilled flute glass.",
+                "method":           "Stir",
+                "ice":              "No ice",
+                "ingredients":
+                [
+                    "Prosecco",
+                    "Orange juice"
+                ],
+                "measures":
+                [
+                    "75 ml",
+                    "75 ml"
+                ],
+                "garnish":          "",
+                "history":          "Brunch and Mimosas just go hand-in-hand, and many brunch spots usually offer bottomless mimosas.\nLike most classic cocktails, there are a lot of legends regarding the true origins of the Mimosa. The Buck’s Fizz, also made with champagne and orange juice (but with a larger quantity of the wine), was invented in 1921 at the Buck’s Club in London. Although this two cocktails have a lot in common, it is believed that four years later, in 1925, Frank Meier, a bartender at the Ritz Hotel in Paris, invented the mimosa, which uses equal parts of sparkling wine and juice."
+            },
+            
+            {
+                "id":               "pisco-sour",
+                "name":             "Pisco Sour",
+                "origin":           "Peru",
+                "description":      "CITRUSY, EARTHY, LIGHT",
+                "category":         "Short drink",
+                "glass":            "Coupette",
+                "instructions":     "Pour all ingredients into cocktails shaker, shake well without ice, add ice to the shaker, shake for at least 10 seconds and fine strain into chilled coupette.",
+                "method":           "Reverse dry shake",
+                "ice":              "No ice",
+                "ingredients":
+                [
+                    "Pisco",
+                    "Lemon juice",
+                    "Sugar syrup",
+                    "Egg white or alternative"
+                ],
+                "measures":
+                [
+                    "60 ml",
+                    "30 ml",
+                    "20 ml",
+                    "1"
+                ],
+                "garnish":          "Few dashes of Angostura bitters",
+                "history":       "This wonderful cocktail coming from South America has a fairly foggy origin as several claim to have been its creator.\nThe most accepted tale is that it began its existence in Lima’s popular Morris Bar in the early 1920s. Victor Vaughen Morris, an American who moved to Peru for the mining trade in 1903, opened the Morris Bar and first made the drink as an alternative to the Whiskey Sour.\nThe modern version of this cocktail wasn’t born until late 1920s, when bartender Mario Bruige added Angostura bitters and egg white to the recipe."
+            }
+        ]
+    }
+]

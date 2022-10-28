@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "BuyMeACoffee",
+        "repositoryURL": "https://github.com/appcraftstudio/buymeacoffee.git",
+        "state": {
+          "branch": null,
+          "revision": "e37c91422cd158be782e5fe9e7f694a90384ab97",
+          "version": "1.0.4"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

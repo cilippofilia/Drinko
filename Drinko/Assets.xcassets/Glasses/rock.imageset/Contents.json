@@ -1,0 +1,25 @@
+{
+  "images" : [
+    {
+      "filename" : "rockBlack.pdf",
+      "idiom" : "universal"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "rockWhite.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "auto-scaling" : "auto"
+  }
+}

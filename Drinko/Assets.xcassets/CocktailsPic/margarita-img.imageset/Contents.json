@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "margarita-img.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

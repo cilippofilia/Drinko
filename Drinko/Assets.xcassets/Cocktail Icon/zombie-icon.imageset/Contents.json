@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "zombie-icon.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

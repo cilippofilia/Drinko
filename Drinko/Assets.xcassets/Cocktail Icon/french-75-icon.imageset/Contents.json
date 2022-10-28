@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "french-75-icon.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

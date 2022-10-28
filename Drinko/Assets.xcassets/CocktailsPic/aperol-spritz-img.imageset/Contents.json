@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "aperol-spritz-img.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

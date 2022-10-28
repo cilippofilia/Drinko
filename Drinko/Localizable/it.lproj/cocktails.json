@@ -1,0 +1,1042 @@
+[
+    {
+        "id": "on-the-rocks",
+        "name": "On the rocks",
+        "glassInfo": "Questa categoria si riferisce a cocktail serviti in un bicchiere a stile old fashioned con ghiaccio a cubetti o ghiaccio tritato.\nI cocktail più iconici serviti in questo tipo di bicchiere sono il Negroni e i suoi twist, e i vari Old Fashioned.\n\nLa capacità di questo genere di bicchieri varia dai 180 ml ai 350 ml.",
+        "cocktails":
+        [
+            {
+                "id":               "boulevardier",
+                "name":             "Boulevardier",
+                "origin":           "Francia",
+                "description":      "",
+                "category":         "On the rocks",
+                "glass":            "Rock glass",
+                "instructions":     "Aggiungi tutti gli ingredienti in un mixing glass e fai uno stir per almeno 15 secondi. Infine versa il contenuto del mixing glass in un rock glass con ghiaccio e guarnisci.",
+                "method":           "Stir",
+                "ice":              "Ghiaccio a cubetti",
+                "ingredients":
+                [
+                    "Bourbon or Rye Whiskey",
+                    "Campari",
+                    "Vermouth Rosso"
+                ],
+                "measures":
+                [
+                    "45 ml",
+                    "30 ml",
+                    "30 ml"
+                ],
+                "garnish":          "Buccia d'arancia e ciliegia (opzionale)",
+                "history":          "Il Boulevardier è stato realizzato per Erskine Gwynne, espatriato americano ed editore di una rivista mensile chiamata 'The Boulevardier', da cui il cocktail prende il suo nome, all'Harry McElhone's New York Bar di Parigi ed è apparso per la prima volta nel suo libro del 1927 'Barflies and Cocktails'.\nOvviamente, questo è un Negroni con bourbon al posto del gin. Il Negroni, tuttavia, non avrebbe visto la stampa per altri 20 anni e gli americani non avevano mai sentito parlare di Campari nel 1927."
+            },
+
+            {
+                "id":               "caipirinha",
+                "name":             "Caipirinha",
+                "origin":           "Brasile",
+                "description":      "",
+                "category":         "On the rocks",
+                "glass":            "Rock glass",
+                "instructions":     "Taglia un lime a cubetti e mettilo all'interno del bicchiere, aggiungi lo zucchero o lo sciroppo, e premi con delicatezza così da rilasciare olii essenziali e succo di lime. Riempi il bicchiere con ghiaccio tritato, aggiungi la cachaca e fai un churn rapido per amalgamare gli ingredienti, diluire il cocktail e raffreddarlo.",
+                "method":           "Build in",
+                "ice":              "Ghiaccio tritato",
+                "ingredients":
+                [
+                    "Cachaca",
+                    "Lime",
+                    "Zucchero"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "1",
+                    "2 tsp"
+                ],
+                "garnish":          "Spicchio di lime, e menta (opzionale)",
+                "history":       "Sebbene l'origine del cocktail sia sconosciuta, la Caipirinha è stata inventata dai proprietari terrieri della regione di Piracicaba, San Paolo, Brasile, attorno al XIX secolo come bevanda locale per eventi e feste di 'alto livello'.\nLa caipirinha è il cocktail nazionale più forte del Brasile ed è bevuto in bar, ristoranti e molte abitazioni in tutto il paese.\nIl suo nome è il diminutivo della parola “caipira” che si riferisce a qualcuno che proviene dalla campagna."
+            },
+            
+            {
+                "id":               "mai-tai",
+                "name":             "Mai Tai",
+                "origin":           "U.S.A.",
+                "description":      "",
+                "category":         "On the rocks",
+                "glass":            "Rock glass",
+                "instructions":     "Versa tutti gli ingredienti all'interno dello shaker con ghiaccio. Shakera vigorosamente e filtra all'interno di un rock glass con ghiaccio a tritato.",
+                "method":           "Shake and strain",
+                "ice":              "Pebble ice",
+                "ingredients":
+                [
+                    "Rum scuro Giamaicano",
+                    "Cointreau",
+                    "Succo di lime",
+                    "Sciroppo alle mandorle"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "20 ml",
+                    "25 ml",
+                    "15 ml"
+                ],
+                "garnish":          "Spicchio di lime e rametto di menta",
+                "history":          "Il Mai Tai è uno dei cocktail per eccellenza nella cultura Tiki.\nQuesta storia è iniziata nel 1944, secondo Victor J. Bergeron, meglio conosciuto come Trader Vic. Racconta la storia del giorno in cui serviva due amici, Eastham e Carrie Guild di Tahiti, nel suo ristorante 'Trader Vic' a Oakland, in California. Una volta servita questa bevanda ai suoi amici e dopo che Carrie ne ha bevuto un sorso ha detto 'Mai Tai-Roa Aé', che significa 'Fuori dal mondo - il migliore'."
+            },
+            
+            {
+                "id":               "mint-julep",
+                "name":             "Mint Julep",
+                "origin":           "U.S.A.",
+                "description":      "",
+                "category":         "On the rocks",
+                "glass":            "Rock glass",
+                "instructions":     "Metti tutti gli ingredienti all'interno del bicchiere con del ghiaccio tritato, fai un churn vigoroso e riempi con dell'altro ghiaccio e guarnisci.",
+                "method":           "Build in",
+                "ice":              "Ghiaccio tritato",
+                "ingredients":
+                [
+                    "Whiskey",
+                    "Sciroppo di zucchero",
+                    "Foglie di menta"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "20 ml",
+                    "10"
+                ],
+                "garnish":          "Rametto di menta",
+                "history":          "Il julep iniziò per la prima volta come una miscela medica usata per calmare lo stomaco. Come cocktail, sbocciò nella parte sud degli Stati Uniti alla fine del 1700, con un'aria decisamente elitaria, perché non tutti avevano accesso al ghiaccio né alla coppa d'argento in cui viene servita la bevanda. Nel 1938 questo cocktail divenne la bevanda ufficiale del Kentucky Derby, dove da allora sono stati venduti quasi 120.000 Mint Julep alla gara, ogni anno."
+            },
+            
+            {
+                "id":               "negroni",
+                "name":             "Negroni",
+                "origin":           "Italia",
+                "description":      "",
+                "category":         "On the rocks",
+                "glass":            "Rock glass",
+                "instructions":     "Aggiungi tutti gli ingredienti in un mixing glass, fai un stir per almeno 15 secondi e versa il contenuto nel bicchiere pieno di ghiaccio e guarnisci.",
+                "method":           "Stir",
+                "ice":              "Ghiaccio a cubetti",
+                "ingredients":
+                [
+                    "London Dry Gin",
+                    "Campari",
+                    "Vermouth Rosso"
+                ],
+                "measures":
+                [
+                    "30 ml",
+                    "30 ml",
+                    "30 ml"
+                ],
+                "garnish":          "Fetta d'arancia",
+                "history":          "La storia di questo cocktail risale al 1919, quando il conte Camillo Negroni, un ragazzo famoso e un cliente abituale del Bar Casoni di Firenze, un giorno chiese un po’ più di alcohol nel suo Americano. Il barista, Fosco Scarselli, ha risposto cambiando la soda water con il gin e quella combinazione è diventata l'ordine abituale del conte.\n\nCuriosità: Grazie a Gaz Regan, l'iconico metodo di mescolazione del Negroni è con il dito e sempre essere guarnito con uno spicchio d'arancia o una buccia, l'uso di un limone è un crimine odioso che viene punito facendo succhiare il dito usato per mescolare il Negroni di Gaz Regan."
+            },
+            
+            {
+                "id":               "old-fashioned",
+                "name":             "Old Fashioned",
+                "origin":           "U.S.A.",
+                "description":      "",
+                "category":         "On the rocks",
+                "glass":            "Rock glass",
+                "instructions":     "Aggiungi tutti gli ingredienti in un mixing glass, fai un stir per almeno 30 secondi e versa il contenuto nel bicchiere pieno di ghiaccio e guarnisci.",
+                "method":           "Stir",
+                "ice":              "Ghiaccio a cubetti",
+                "ingredients":
+                [
+                    "Bourbon Whiskey",
+                    "Sciroppo di zucchero di demerara",
+                    "Angostura bitters"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "10 ml",
+                    "3 dashes"
+                ],
+                "garnish":          "Buccia d'arancia",
+                "history":          "Un Old Fashioned era una delle versioni più semplici e precedenti dei cocktail, prima dello sviluppo di tecniche e ricette avanzate di bartending nella seconda parte del XIX secolo.\nNegli anni '60 dell'Ottocento era comune aggiungere al cocktail orange curaçao, assenzio e altri liquori. Man mano che i cocktail diventavano più complessi, i bevitori abituati di cocktail più semplici iniziarono a chiedere ai baristi qualcosa di simile alle bevande precedenti al 1850, chiamandoli appunto “Old Fashioned”."
+            },
+            
+            {
+                "id":               "tommys-margarita",
+                "name":             "Tommy's Margarita",
+                "origin":           "U.S.A.",
+                "description":      "",
+                "category":         "On the rocks",
+                "glass":            "Rock glass",
+                "instructions":     "Versa tutti gli ingredienti all'interno dello shaker, riempilo di ghiaccio e shakera vigorosamente per 8-10 secondi. Esegui un doppio strain in un bicchiere con ghiaccio e guarnisci.",
+                "method":           "Shake and strain",
+                "ice":              "Ghiaccio a cubetti",
+                "ingredients":
+                [
+                    "Reposado Tequila",
+                    "Succo di lime",
+                    "Sciroppo di agave"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "25 ml",
+                    "15 ml"
+                ],
+                "garnish":          "Fetta di lime (opzionale)",
+                "history":          "Questo cocktail è stato creato nel 1988 da Julio Bermejo e prende il nome dal ristorante e bar messicano della sua famiglia a San Francisco. Tomas ed Elmy Bermejo hanno fondato il Tommy's nel 1965 e Julio è uno dei loro cinque figli, tutti coinvolti attivamente in quello che è un vero ristorante a conduzione familiare.\nGrazie alla sua incredibile conoscenza della tequila e alla straordinaria abilità nel bartending, Julio è diventato una leggenda nel settore."
+            },
+            
+            {
+                "id":               "whiskey-sour",
+                "name":             "Whiskey Sour",
+                "origin":           "U.S.A.",
+                "description":      "",
+                "category":         "On the rocks",
+                "glass":            "Rock glass",
+                "instructions":     "Versa tutti gli ingredienti all'interno dello shaker, riempilo di ghiaccio e shakera vigorosamente per 8-10 secondi. Esegui un doppio strain, aggiungi l'albume o l'alternativa e shakera senza ghiaccio per altri 10 secondi. Versa il contenuto in un bicchiere con ghiaccio e guarnisci.",
+                "method":           "Reverse dry shake",
+                "ice":              "Ghiaccio a cubetti",
+                "ingredients":
+                [
+                    "Bourbon Whiskey",
+                    "Succo di limone",
+                    "Sciroppo di zucchero",
+                    "Albume o alternativa"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "25 ml",
+                    "20 ml",
+                    "1"
+                ],
+                "garnish":          "Qualche goccia di Angostura bitters",
+                "history":          "La prima ricetta scritta di questo drink apparve nel 1862, quando fu inclusa nel libro 'The Bartender’s Guide' di Jerry Thomas.\nLa verità è che è molto probabile che i sour esistessero da molti decenni prima, poiché erano molto popolari tra i marinai. Trascorrendo lunghi mesi in mare, i marinai correvano un grave rischio di malnutrizione e scorbuto. Dato che mangiare agrumi è un modo efficace per combattere tale malattia, le navi spesso lasciarono il porto con grosse razioni di limoni, lime e arance per i marinai. Considerando che la refrigerazione non era disponibile, i marinai erano soliti portare distillati come rum, whisky e gin sulle navi per avere qualcosa di sterile da bere in quei lunghi viaggi. Nel tempo, gli agrumi (principalmente lime e limoni) sono stati mescolati con un distillato e acqua per creare una bevanda che dissetasse e prevenisse lo scorbuto."
+            },
+            
+            {
+                "id":               "white-russian",
+                "name":             "White Russian",
+                "origin":           "U.S.A.",
+                "description":      "",
+                "category":         "On the rocks",
+                "glass":            "Rock glass",
+                "instructions":     "Versa i primi due ingredienti all'interno del bicchiere con ghiaccio, fai uno stir veloce per amalgamare gli ingredienti e infine versa la panna sopra il ghiaccio per farla galleggiare.",
+                "method":           "Build in",
+                "ice":              "Ghiaccio a cubetti",
+                "ingredients":
+                [
+                    "Vodka",
+                    "Liquore al caffè",
+                    "Panna fresca"
+                ],
+                "measures":
+                [
+                    "35 ml",
+                    "35 ml",
+                    "35 ml"
+                ],
+                "garnish":          "",
+                "history":          "Il cocktail tradizionale noto come Black Russian, apparso per la prima volta nel 1949, diventa un White Russian con l'aggiunta di panna. Nessuna delle due bevande è di origine russa, ma entrambe sono così chiamate perché la vodka è l'ingrediente principale.\nTuttavia questo cocktail ha visto un'ondata di popolarità dopo l'uscita nel 1998 del film “The Big Lebowski“. In tutto il film sembra essere il cocktail preferito da Jeffrey “The Dude” Lebowski, il personaggio principale, e in diverse occasioni si riferisce al drink come “caucasico”."
+            }
+        ]
+    },
+    
+    
+    {
+        "id": "long-drink",
+        "name": "Long drink",
+        "glassInfo": "Questa categoria si riferisce a cocktail serviti in un bicchiere lungo con ghiaccio a cubetti o tritato.\nI cocktail più iconici serviti in questo tipo di bicchiere sono il Bloody Mary, il Mojito e la Piña Colada.\n\nLa capacità di questo genere di bicchieri varia dai 220 ml ai 350 ml.",
+        "cocktails":
+        [
+            {
+                "id":               "americano",
+                "name":             "Americano",
+                "origin":           "Italia",
+                "description":      "",
+                "category":         "Long drink",
+                "glass":            "Highball",
+                "instructions":     "Versa i primi due ingredienti all'interno del highball con del ghiaccio e riempi con la soda. Fai uno stir delicato per amalgamare gli ingredienti e guarnisci.",
+                "method":           "Build in",
+                "ice":              "Ghiaccio a cubetti",
+                "ingredients":
+                [
+                    "Campari",
+                    "Vermouth Rosso",
+                    "Seltzer o Acqua frizzante"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "50 ml",
+                    "Riempi con"
+                ],
+                "garnish":          "Fetta d'arancia",
+                "history":          "Sebbene sia molto probabile che nasca come variazione del Milano-Torino, ci sono alcune ipotesi riguardo la sua creazione. Una di queste ipotesi risale al 1933, la bevanda sarebbe stata creata in omaggio al pugile Primo Carnera detto “l’americano” per i suoi successi negli USA. Secondo alcune fonti, anche la propaganda politica dell’epoca spinse molto su questa associazione tra il pugile italiano e i suoi ingredienti, tutti di origine italiana.\nUn altra ipotesi suggerisce che la sua creazione sia stata una manovra di marketing da parte del brand Martini & Rossi per l’esportazione del loro vermouth negli Stati Uniti."
+            },
+            
+            {
+                "id":               "aperol-spritz",
+                "name":             "Aperol Spritz",
+                "origin":           "Italia",
+                "description":      "",
+                "category":         "Long drink",
+                "glass":            "Bicchiere da vino",
+                "instructions":     "Versa gli ingredienti all'interno del bicchiere del vino raffreddato, e pieno di ghiaccio, e guarnisci.",
+                "method":           "Build in",
+                "ice":              "Ghiaccio a cubetti",
+                "ingredients":
+                [
+                    "Prosecco",
+                    "Aperol",
+                    "Seltzer o Acqua frizzante"
+                ],
+                "measures":
+                [
+                    "75 ml",
+                    "50 ml",
+                    "25 ml"
+                ],
+                "garnish":          "Fetta d'arancia",
+                "history":          "L'origine dello spritz è ricondotta all'usanza delle truppe dell'Impero austriaco di stanza nel Regno Lombardo-Veneto di allungare i vini locali, di elevata gradazione alcolica, con seltz o acqua frizzante.\nL’origine del nome deriva dal verbo tedesco-austriaco “spritzer”, che significa “spruzzare”.\nCome cocktail lo spritz nasce presumibilmente tra gli anni venti e trenta del Novecento tra Venezia e Padova, quando si pensò di unire a tale usanza l'Aperol o il Select."
+            },
+            
+            {
+                "id":               "bloody-mary",
+                "name":             "Bloody Mary",
+                "origin":           "Francia",
+                "description":      "",
+                "category":         "Long drink",
+                "glass":            "Highball",
+                "instructions":     "Versa tutti gli ingredienti nella parte grande dello shaker, riempilo di ghiaccio e con l'aiuto dello strainer, travasa il liquido all'interno dell'altro shaker. Ripeti questo processo finche il cocktail non è ghiacciato e raggiunge la consistenza desiderata.",
+                "method":           "Throw",
+                "ice":              "Ghiaccio a cubetti",
+                "ingredients":
+                [
+                    "Vodka",
+                    "Succo di pomodoro",
+                    "Succo di limone",
+                    "Sale",
+                    "Pepe",
+                    "Worcestershire sauce",
+                    "Tabasco"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "100 ml",
+                    "20 ml",
+                    "un pizzico",
+                    "q.b.",
+                    "q.b.",
+                    "q.b."
+                ],
+                "garnish":          "Rondella di limone, sottaceti, olive, sedano.. Guarniscilo a piacere",
+                "history":          "Il Bloody Mary è stato inventato tra gli anni '20 e '30 e ci sono varie teorie sull'origine del cocktail e sul suo nome.\nIl barista francese Fernand Petiot affermò di averlo inventato nel 1921, quando lavorava all'Harry's New York Bar di Parigi.\nAlcuni dicono che sia stato inventato nel 1930 da Henry Zbikiwicz al bar di New York '21 Club' e altri attribuiscono la sua invenzione al comico George Jessel, che frequentava lo stesso bar.\nCi sono anche aneddoti diversi sull’origine del nome, ma la mia preferita è l'autobiografia di George Jessel 'The World I Live In', che rievoca una notte particolarmente lunga a Palm Beach nel 1927. Alle 8 del mattino, ancora sveglio e con i postumi di una sbornia, George mescolava vodka con succo di pomodoro e spezie per sé e per i suoi amici. Una volta consegnato un bicchiere alla mondana Mary Brown Warburton, ancora in un abito bianco della sera prima, lo ha prontamente versato sul davanti del vestito, esclamando: 'Ora puoi chiamarmi Bloody Mary, George!'"
+            },
+            
+            {
+                "id":               "campari-spritz",
+                "name":             "Campari Spritz",
+                "origin":           "Italia",
+                "description":      "",
+                "category":         "Long drink",
+                "glass":            "Bicchiere da vino",
+                "instructions":     "Versa gli ingredienti all'interno del bicchiere del vino raffreddato, e pieno di ghiaccio, e guarnisci.",
+                "method":           "Build in",
+                "ice":              "Ghiaccio a cubetti",
+                "ingredients":
+                [
+                    "Prosecco",
+                    "Campari",
+                    "Seltzer o Acqua frizzante"
+                ],
+                "measures":
+                [
+                    "75 ml",
+                    "50 ml",
+                    "25 ml"
+                ],
+                "garnish":          "Fetta d'arancia o di pompelmo",
+                "history":          "Il gruppo Campari, dopo il grande successo dell’Aperol Spritz, decide di commissionare uno spot incentrato sullo Spritz: Due ragazze in auto vengono bloccate da una folla di ragazzi radunati per l’aperitivo. Una delle due, dai capelli rosso fuoco si alza dal tettuccio della macchina e mima il gesto del seltz nel bicchiere, un po’ come facevano i soldati austroungarici. In pochissimo tempo tutta la folla inizia a fare il gesto e a chiedere Spritz sulle note di 'Street Life' di Randy Crawford And The Crusaders che per l’occasione diventa 'Spritz life'."
+            },
+            
+            {
+                "id":               "gin-fizz",
+                "name":             "Gin Fizz",
+                "origin":           "U.K.",
+                "description":      "",
+                "category":         "Long drink",
+                "glass":            "Highball",
+                "instructions":     "Versa i primi tre ingredienti all'interno dello shaker, riempilo di ghiaccio e shakera vigorosamente. Filtra il cocktail all'interno del highball pieno di ghiaccio e riempi con il seltzer.",
+                "method":           "Shake and strain",
+                "ice":              "Ghiaccio a cubetti",
+                "ingredients":
+                [
+                    "London Dry Gin",
+                    "Sciroppo di zucchero",
+                    "Succo di limone",
+                    "Seltzer o Acqua frizzante"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "25 ml",
+                    "25 ml",
+                    "Riempi con"
+                ],
+                "garnish":          "Fetta di limone e ciliegia (opzionale)",
+                "history":          "Le prime pubblicazioni di qualsiasi Fizz, così come qualsiasi ricetta Collins, si trovano nel libro di Harry Johnson del 1882 “New and Improved Bartender’s Manual” o “How to Mix Drinks of the Present Style”. Il libro include un Tom Collins che chiede il gin Old Tom e un John Collins che chiama Holland Gin, molto probabilmente quello che è noto come Genièvre.\nLo storico dei cocktail David Wondrich ha affermato che ci sono molte altre precedenti menzioni di questa versione della bevanda e che ha una sorprendente somiglianza con i punch al gin serviti nei club londinesi come al Garrick nella prima metà del 19° secolo."
+            },
+
+            
+            {
+                "id":               "mojito",
+                "name":             "Mojito",
+                "origin":           "Cuba",
+                "description":      "",
+                "category":         "Long drink",
+                "glass":            "Highball",
+                "instructions":     "Versa tutti gli ingredienti all'interno del bicchiere, afferra le foglie di menta, schiaffeggiale per rilasciare gli olii essenziali e inseriscile nel bicchiere. Riempi con ghiaccio tritato ed esegui un churn vigoroso per almeno 10 secondi, riempi con ghiaccio tritato, un goccio di seltzer e guarnisci.",
+                "method":           "Build in",
+                "ice":              "Ghiaccio tritato",
+                "ingredients":
+                [
+                    "Rum",
+                    "Succo di limone",
+                    "Sciroppo di zucchero",
+                    "Foglie di menta",
+                    "Seltzer o Acqua frizzante"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "25 ml",
+                    "15 ml",
+                    "10-12",
+                    "Un goccio di"
+                ],
+                "garnish":          "Rametto di menta e spicchio di lime",
+                "history":          "Havana, Cuba, è il luogo di nascita del mojito, anche se la sua origine esatta è oggetto di dibattito, e la sua popolarità è iniziata con Ernest Hemingway durante il suo soggiorno a Cuba.\nSi dice che il Mojito originale fosse una bevanda medica per tenere a freno le malattie sull'isola di Cuba e il suo distillato principale era un moonshine fatto con le canne da zucchero.\nQuando i pirati invasero Cuba, la bevanda fu presentata al Pirata Drake dove sostituì prontamente il moonshine con il rum. La bevanda prese il nome di 'El Draque' prima di prendere il nome Mojito che ora conosciamo."
+            },
+                                    
+            {
+                "id":               "paloma",
+                "name":             "Paloma",
+                "origin":           "Messico",
+                "description":      "",
+                "category":         "Long drink",
+                "glass":            "Highball",
+                "instructions":     "Versa i primi quattro ingredienti all'interno dello shaker, riempilo di ghiaccio e shakera vigorosamente. Filtra il cocktail all'interno del highball pieno di ghiaccio e riempi con il seltzer.",
+                "method":           "Shake and strain",
+                "ice":              "Ghiaccio a cubetti",
+                "ingredients":
+                [
+                    "Tequila",
+                    "Succo di lime",
+                    "Sciroppo di zucchero",
+                    "Succo di pompelmo",
+                    "Seltzer o Acqua frizzante"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "25 ml",
+                    "20 ml",
+                    "50 ml",
+                    "riempi con"
+                ],
+                "garnish":          "Fetta di pompelmo",
+                "history":          "La storia del Paloma è oscura: nessuno sa con certezza chi l'ha inventata.\nAlcuni accreditano il leggendario Don Javier Delgado Corona, proprietario del bar 'La Capilla' nella città di Tequila a Jalisco, in Messico. Don Javier è anche l'inventore di un altro cocktail a base di tequila chiamato Batanga, che è un mix di tequila, succo di lime e Coca Cola."
+            },
+                        
+            {
+                "id":               "pina-colada",
+                "name":             "Piña Colada",
+                "origin":           "Porto Rico",
+                "description":      "",
+                "category":         "Long drink",
+                "glass":            "Highball",
+                "instructions":     "Versa tutti gli ingredienti all'interno dello shaker, aggiungi del ghiaccio tritato e shakera vigorosamente. Versa tutto il contenuto all'interno del highball, riempi con ghiaccio tritato e guarnisci.",
+                "method":           "Shake and dump",
+                "ice":              "Ghiaccio tritato",
+                "ingredients":
+                [
+                    "Rum al cocco (almeno 38% ALC./VOL.)",
+                    "Succo di ananas",
+                    "Sciroppo di cocco",
+                    "Succo di lime"
+                ],
+                "measures":
+                [
+                    "60 ml",
+                    "50 ml",
+                    "20 ml",
+                    "10 ml"
+                ],
+                "garnish":          "Spicchio di ananas, fetta di lime, o lemon, e foglia di ananas (opzionale)",
+                "history":          "La Piña Colada proviene da San Juan, Porto Rico, dove è stata creata da Ramón “Monchito” Marrero al Caribe Hilton nel 1954. Semplicemente mescolando un mix fruttato di rum, crema di cocco e succo d'ananas e BOOM! È nato lo sfizio estivo preferito da tutti.\nLa Piña Colada è stata dichiarata la bevanda ufficiale di Porto Rico nel 1978 e in questo momento è uno dei migliori cocktail provenienti dalla catena di Hotel Hilton."
+            },
+            
+            {
+                "id":               "zombie",
+                "name":             "Zombie",
+                "origin":           "U.S.A.",
+                "description":      "",
+                "category":         "Long drink",
+                "glass":            "Highball",
+                "instructions":     "Aggiungi tutti gli ingredienti, tranne il rum Overproof, allo shaker e shakera vigorosamente. Filtra il cocktail all'interno del highball pieno di ghiaccio. Guarniscilo con metà lime spremuto o frutto della passione dove verserai il rum overproof, dagli fuoco e spruzza della cannella in polvere per fare scena.",
+                "method":           "Shake and strain",
+                "ice":              "Ghiaccio a cubetti",
+                "ingredients":
+                [
+                    "Rum Scuro Giamaicano",
+                    "Rum D'Orato",
+                    "Rum Overproof",
+                    "Succo di lime",
+                    "Velvet Falernum",
+                    "Succo d'ananas",
+                    "Sciroppo alla cannella",
+                    "Angostura bitters"
+                ],
+                "measures":
+                [
+                    "35 ml",
+                    "25 ml",
+                    "10 ml",
+                    "20 ml",
+                    "15 ml",
+                    "50 ml",
+                    "15 ml",
+                    "2 dashes"
+                ],
+                "garnish":          "Rametto di menta e mezzo lime, o frutto della passione, infuocato",
+                "history":          "Questo cocktail è stato inventato nel 1934 da Ernest Raymond Beaumont Gantt, meglio conosciuto come Donn the Beachcomber. I racconti sulla sua origine variano ampiamente e lo stesso Donn era probabilmente responsabile di molte delle storie.\nLa storia più divertente ma probabilmente falsa è che è stato il risultato di miscelare insieme qualcosa per un uomo d'affari che era in cerca di aiuto per combattere i postumi da sbornia e per affrontare un meeting importante. Il cliente ha poi riferito a Donn che si sentiva come un morto vivente 'it made a zombie out of me'.\nLa ricetta della bevanda è rimasta sconosciuta per molti anni, grazie all'ingegnoso sistema di Donn di mantenere segreti gli ingredienti utilizzati. Tuttavia, grazie al lavoro instancabile del revivalista tiki Jeff 'BeachBum' Berry, ora possiamo mescolare il nostro Zombie nel comfort e nella sicurezza della nostra casa."
+            }
+        ]
+    },
+    
+    
+    {
+        "id": "short-drink",
+        "name": "Short drink",
+        "glassInfo": "Questa categoria si riferisce a cocktail serviti in una coppetta/bicchiere per martini o flute, generalmente serviti senza ghiaccio.\nI cocktail più iconici serviti in questi bicchieri sono tutti i Martini e le sue varianti, il Cosmopolitan e il Margarita.\n\nLa capacità di questo genere di bicchieri varia dai 100 ml ai 250 ml.",
+        "cocktails":
+        [
+            {
+                "id":               "bellini",
+                "name":             "Bellini",
+                "origin":           "Italia",
+                "description":      "",
+                "category":         "Short drink",
+                "glass":            "Flute",
+                "instructions":     "Versa il puree e il prosecco all'interno del mixing glass con ghiaccio, mescola gentilmente per amalgamare gli ingredienti senza sgasare il vino. Versa il prodotto finito all'interno di un flute raffreddato.",
+                "method":           "Stir",
+                "ice":              "Senza ghiaccio",
+                "ingredients":
+                [
+                    "Prosecco",
+                    "Purea di pesca"
+                ],
+                "measures":
+                [
+                    "100 ml",
+                    "50 ml"
+                ],
+                "garnish":          "",
+                "history":          "Il Bellini è stato inventato nel 1948 da Giuseppe Cipriani, capo barista dell’Harry’s Bar di Venezia che intitolò il cocktail al pittore veneziano per via del suo colore rosato che ricordò a Cipriani il colore della toga di un sarto in un dipinto di Giovanni “il Giambellino” Bellini.\nIl drink divenne una specialità stagionale dell’Harry’s Bar, uno dei locali preferiti da Ernest Hemingway, Gianni Agnelli, Sinclair Lewis e Orson Welles.\nDopo che un imprenditore francese instaurò una rotta commerciale per trasportare polpa di pesche negli USA, il Bellini diventò molto popolare anche all’Harry’s Bar di New York. In poco tempo divenne anche un classico e oggi è un cocktail diffuso nei bar di tutto il mondo."
+            },
+            
+            {
+                "id":               "bucks-fizz",
+                "name":             "Buck's Fizz",
+                "origin":           "U.K.",
+                "description":      "",
+                "category":         "Short drink",
+                "glass":            "Flute",
+                "instructions":     "Versa i prodotti all'interno del flute raffreddato e dai una mescolata gentile per amalgamare il tutto.",
+                "method":           "Build in",
+                "ice":              "Senza ghiaccio",
+                "ingredients":
+                [
+                    "Champagne",
+                    "Succo d'arancia"
+                ],
+                "measures":
+                [
+                    "100 ml",
+                    "50 ml"
+                ],
+                "garnish":          "",
+                "history":          "La bevanda prende il nome dal Buck's Club di Londra, dove è stata inventata come scusa per iniziare a bere presto; fu servito per la prima volta nel 1921 da un barman di nome Malachy McGarry.\nTradizionalmente, il Buck’s Fizz è fatto mescolando due parti di champagne e una parte di succo d'arancia. Alcune ricette più vecchie elencano la granatina come ingrediente aggiuntivo, ma tra i cocktail dell'International Bartenders Association non è presente."
+            },
+            
+            {
+                "id":               "champagne-cocktail",
+                "name":             "Champagne Cocktail",
+                "origin":           "U.S.A.",
+                "description":      "",
+                "category":         "Short drink",
+                "glass":            "Flute",
+                "instructions":     "Inserisci nel flute la zolletta di zucchero con 2 gocce di angostura, macina il tutto per qualche secondo, aggiungi il cognac e versa gentilmente lo champagne fino a riempire il bicchiere",
+                "method":           "Build in",
+                "ice":              "Senza ghiaccio",
+                "ingredients":
+                [
+                    "Champagne",
+                    "Cognac",
+                    "Zolletta di zucchero",
+                    "Angostura bitters"
+                ],
+                "measures":
+                [
+                    "100 ml",
+                    "20 ml",
+                    "1",
+                    "2 dashes"
+                ],
+                "garnish":          "Buccia di limone",
+                "history":          "L'origine di questa bevanda si perde nella notte dei tempi del bartending che 'risale all'età del ferro della mixology americana' - tra l'invenzione dei cocktail e il primo libro sui cocktail pubblicato nel 1862.\nLa prima menzione scritta di questo cocktail però appare nel libro 'Panama nel 1855' di Robert Tomes, dove scrive in alcuni dettagli come farlo. Ciò che è veramente interessante è che non solo questo dimostra che i Champagne Cocktail venivano preparati prima del 1855, ma anche che il drink veniva preparato in un bicchiere, su ghiaccio tritato e senza cognac o brandy."
+            },
+
+            {
+                "id":               "clover-club",
+                "name":             "Clover Club",
+                "origin":           "U.S.A.",
+                "description":      "",
+                "category":         "Short drink",
+                "glass":            "Coppetta",
+                "instructions":     "Versa tutti gli ingredienti all'interno dello shaker, riempilo di ghiaccio e shakera vigorosamente per 8-10 secondi. Esegui un doppio strain, aggiungi l'albume o l'alternativa e shakera senza ghiaccio per altri 10 secondi. Versa il contenuto in un bicchiere con ghiaccio e guarnisci.",
+                "method":           "Reverse dry shake",
+                "ice":              "Senza ghiaccio",
+                "ingredients":
+                [
+                    "London Dry Gin",
+                    "Sciroppo al lampone",
+                    "Succo di limone",
+                    "Albume o alternativa"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "25 ml",
+                    "20 ml",
+                    "1"
+                ],
+                "garnish":          "Tre lamponi freschi su uno stuzzicadente",
+                "history":          "Il Clover Club Cocktail è una bevanda antecedente al proibizionismo negli Stati Uniti e prende il nome dall'omonimo club maschile di Philadelphia, che si riuniva al Bellevue-Stratford Hotel a South Broad e Walnut Street a Center City. Lo stesso Clover Club risale al 1896, come si vede nel libro del 1897, 'The Clover Club of Philadelphia', di Mary R. Deacon.\nLe ricette pubblicate per questo cocktail compaiono già nel 1917 all’interno del libro “The Ideal Bartender” di Thomas Bullock."
+            },
+
+            {
+                "id":               "cosmopolitan",
+                "name":             "Cosmopolitan",
+                "origin":           "U.S.A.",
+                "description":      "",
+                "category":         "Short drink",
+                "glass":            "Coppetta",
+                "instructions":     "Versa tutti gli ingredienti all'interno dello shaker, riempilo di ghiaccio e shakera vigorosamente per 8-10 secondi. Esegui un doppio strain in una coppetta e guarnisci.",
+                "method":           "Shake and strain",
+                "ice":              "Senza ghiaccio",
+                "ingredients":
+                [
+                    "Citron Vodka",
+                    "Cointreau",
+                    "Succo di limone",
+                    "Succo di mirtillo rosso"
+                ],
+                "measures":
+                [
+                    "40 ml",
+                    "25 ml",
+                    "20 ml",
+                    "50 ml"
+                ],
+                "garnish":          "Buccia d'arancia flambé",
+                "history":          "La leggenda dei cocktail Dale 'King Cocktail' DeGroff si è imbattuto nel Cosmopolitan al Fog City Diner di San Francisco all'inizio degli anni '90 e, tornato a Manhattan, ha iniziato a perfezionare la sua ricetta al Rainbow Rooms aggiungendo la sua nota scorza d'arancia flambè come guarnizione.\nDave non ha mai affermato di aver inventato il Cosmopolitan e nel suo libro del 2002, 'The Craft of Cocktail', spiega che mentre non ha inventato il Cosmopolitan, 'Quello che ho fatto è stato rendere popolare una ricetta definitiva che è stata ampiamente accettata come standard '.\nUn enorme guadagno di popolarità è arrivato anche grazie al film “Sex and the City” del 2008. Lo show televisivo mostrava spesso i personaggi che sorseggiavano Cosmos e si chiedevano perché avessero smesso di berli."
+            },
+
+            {
+                "id":               "daiquiri",
+                "name":             "Daiquiri",
+                "origin":           "Cuba",
+                "description":      "",
+                "category":         "Short drink",
+                "glass":            "Coppetta",
+                "instructions":     "Versa tutti gli ingredienti all'interno dello shaker, riempilo di ghiaccio e shakera vigorosamente per 8-10 secondi. Esegui un doppio strain in una coppetta e guarnisci.",
+                "method":           "Shake and strain",
+                "ice":              "Senza ghiaccio",
+                "ingredients":
+                [
+                    "Rum",
+                    "Succo di lime",
+                    "Sciroppo di zucchero"
+                ],
+                "measures":
+                [
+                    "60 ml",
+                    "25 ml",
+                    "20 ml"
+                ],
+                "garnish":          "",
+                "history":          "Mentre la maggior parte dei cocktail storici manca di documentazione che dimostri il loro preciso punto di creazione, l'origine del Daiquiri è supportata da una vera scheda di ricette per cocktail firmata da 'Jennings Cox' nel 1896.\nSi ritiene che Cox, un ingegnere americano che ha vissuto e lavorato a Cuba dopo la guerra ispano-americana, abbia inventato il Daiquiri dopo aver finito il gin mentre organizzava un cocktail party. Poiché il rum è abbondante nel paese, si è rivelato un comodo sostituto in un pugno che stava servendo. A differenza di quanto indicato sulla sua scheda ricetta, la bevanda era fatta con lime e zucchero di canna. Si è rivelato un enorme successo e Cox lo ha battezzato 'Daiquiri', nominando la bevanda come una vicina città portuale, che è stata anche il luogo in cui gli Stati Uniti invasero per la prima volta Cuba durante la guerra.\nTuttavia, considerando che l'isola ha una generosità di lime, zucchero e rum, è probabile che Cox sia stato semplicemente il primo a scrivere la ricetta di un cocktail che esisteva già a Cuba. Per non parlare del fatto che un prototipo del daiquiri aveva salvato i marinai britannici e i pirati dallo scorbuto per secoli."
+            },
+            
+            {
+                "id":               "hemingway-daiquiri",
+                "name":             "Hemingway Daiquiri",
+                "origin":           "Cuba",
+                "description":      "",
+                "category":         "Short drink",
+                "glass":            "Coppetta",
+                "instructions":     "Versa tutti gli ingredienti all'interno dello shaker, riempilo di ghiaccio e shakera vigorosamente per 8-10 secondi. Esegui un doppio strain in una coppetta e guarnisci.",
+                "method":           "Shake and strain",
+                "ice":              "Senza ghiaccio",
+                "ingredients":
+                [
+                    "Rum",
+                    "Succo di pompelmo",
+                    "Liquore al maraschino",
+                    "Succo di lime"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "35 ml",
+                    "20 ml",
+                    "20 ml"
+                ],
+                "garnish":          "",
+                "history":          "L’Hemingway Daiquiri è stato inventato quando, un fatidico giorno, Hemingway è entrato in un bar chiamato 'El Floridita' in Havana, Cuba, per usare il bagno. Quando emerse, Hemingway vide una fila di gelidi Daiquiri al bar. Ha chiesto se poteva provarne uno, e il barista, elegantemente, ha detto di sì (Hemingway era un uomo grande e corpulento). Il verdetto di Hemingway: 'Va bene, ma lo preferisco senza zucchero e doppio rum'. Il barista ne ha preparato uno secondo le sue specifiche e Hemingway l'ha adorato. Si chiamava Papa Doble ma Hemingway lo chiamava Double Frozen Daiquiri.\nQuesta era la bevanda che beveva a dozzine... letteralmente. Una volta ne ha bevuti 17 in un giorno e, secondo una lettera che Hemingway scrisse allo scrittore Harvey Breit, non ebbe nemmeno i postumi di una sbornia. Nella corrispondenza, Hemingway sottintende che il merito era da dare alla preparazione senza zucchero del cocktail e un panino con la bistecca."
+            },
+            
+            {
+                "id":               "french-75",
+                "name":             "French 75",
+                "origin":           "Francia",
+                "description":      "",
+                "category":         "Short drink",
+                "glass":            "Flute",
+                "instructions":     "Versa tutti gli ingredienti, tranne lo champagne, all'interno dello shaker, riempilo di ghiaccio e shakera vigorosamente per 8-10 secondi. Esegui un doppio strain in un flute e riempi con lo champagne.",
+                "method":           "Shake and strain",
+                "ice":              "Senza ghiaccio",
+                "ingredients":
+                [
+                    "London Dry Gin",
+                    "Succo di limone",
+                    "Sciroppo di zucchero",
+                    "Champagne"
+                ],
+                "measures":
+                [
+                    "35 ml",
+                    "15 ml",
+                    "15 ml",
+                    "riempi con"
+                ],
+                "garnish":          "",
+                "history":          "Una delle prime ricette registrate per questa bevanda proviene dal libro The Savoy Cocktail, 1930, ma la vera natura della sua origine è leggermente confusa.\nUna scuola di pensiero credeva che lo scozzese Harry MacElhone, proprietario dell'Harry's American Bar di Parigi, proponesse la bevanda nel 1926. L'ispirazione per il titolo era apparentemente un cannone da campo Howitzer da 75 mm usato dai francesi e dagli americani nella prima guerra mondiale. era noto per la sua precisione e velocità, e si dice che il 75 francese avesse un tale calcio che sembrava di essere colpito proprio da un'arma del genere.\nTuttavia, la storia del cocktail risale a oltre gli anni '20. Charles Dickens era solito dare da mangiare a Tom gin e coppe di champagne ai suoi interlocutori nel lontano 1867 e ci sono molte storie del 19 ° secolo di nobili gentiluomini, come il Principe di Galles, che si godono intrugli simili."
+            },
+            
+            {
+                "id":               "gimlet",
+                "name":             "Gimlet",
+                "origin":           "U.K.",
+                "description":      "",
+                "category":         "Short drink",
+                "glass":            "Martini glass",
+                "instructions":     "Versa tutti gli ingredienti all'interno del mixing glass, riempilo di ghiaccio e mescola per almeno 30 secondi. Versa il tutto in una coppetta raffreddata e guarnisci.",
+                "method":           "Stir",
+                "ice":              "Senza ghiaccio",
+                "ingredients":
+                [
+                    "London Dry Gin",
+                    "Cordiale al lime",
+                    "Peychaud’s bitters"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "20 ml",
+                    "3 dashes"
+                ],
+                "garnish":          "Buccia di limone",
+                "history":          "Questo cocktail è diventato popolare dopo essere stato menzionato nel romanzo di Raymond Chandler del 1953 'The Long Goodbye' dove il personaggio principale, Philip Marlowe, ha detto: 'Un vero Gimlet è per metà gin e per metà Rose's Lime Juice e nient'altro. Batte tutti i tipi di Martini'.\nPrima che questa bevanda diventasse popolare, si ritiene che fosse servita ai marinai della Marina Militare Britannica come mezzo per combattere lo scorbuto. Rose's Lime Juice è stato creato nel 1867 come un modo per conservare il succo di lime senza utilizzare alcool. Mescolando il succo con un Navy Strength Gin nacque il Gimlet e verso la metà del XX secolo il Gimlet era un cocktail popolare tra gli ufficiali della marina e nella società britannica."
+            },
+
+            {
+                "id":               "manhattan",
+                "name":             "Manhattan",
+                "origin":           "U.S.A.",
+                "description":      "",
+                "category":         "Short drink",
+                "glass":            "Martini glass",
+                "instructions":     "Versa tutti gli ingredienti all'interno del mixing glass, riempilo di ghiaccio e mescola per almeno 30 secondi. Versa il tutto in una coppetta raffreddata e guarnisci.",
+                "method":           "Stir",
+                "ice":              "Senza ghiaccio",
+                "ingredients":
+                [
+                    "Rye Whiskey",
+                    "Vermouth Rosso",
+                    "Orange bitters"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "25 ml",
+                    "2 dashes"
+                ],
+                "garnish":          "Ciliegia luxardo",
+                "history":          "Come per molti classici, la storia delle origini di questo cocktail si perde nel tempo.\nLa teoria più popolare è che la ricetta sia stata inventata dal Dottor Iain Marshall all'inizio del 1880 per una festa organizzata da Lady Randolph Churchill, la madre di Winston Churchill. Il motivo principale per il nome del drink è perché questa festa si è tenuta al Manhattan Club di New York. In seguito, questa teoria fu dichiarata un mito perché, durante quel periodo, Lady Randolph Churchill era incinta ed era in Inghilterra.\nIl libro del 1923 intitolato 'Valentine's Manual of New York' presentava una storia più plausibile quando affermava che un barista della Hoffman House di New York di nome William F. Mulhall raccontò, durante gli anni ottanta del XIX secolo, che il cocktail Manhattan era stato inventato da un uomo di nome Black che teneva un locale poco distante da Houston Street a Broadway."
+            },
+            
+            {
+                "id":               "margarita",
+                "name":             "Margarita",
+                "origin":           "Messico",
+                "description":      "",
+                "category":         "Short drink",
+                "glass":            "Coppetta",
+                "instructions":     "Versa tutti gli ingredienti all'interno dello shaker, riempilo di ghiaccio e shakera vigorosamente per 8-10 secondi. Esegui un doppio strain in una coppetta e guarnisci.",
+                "method":           "Shake and strain",
+                "ice":              "Senza ghiaccio",
+                "ingredients":
+                [
+                    "Tequila",
+                    "Cointreau",
+                    "Succo di lime",
+                    "Sciroppo di zucchero"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "25 ml",
+                    "25 ml",
+                    "5 ml"
+                ],
+                "garnish":          "Mezzo bordo di sale",
+                "history":          "Margarita in spagnolo significa 'margherita', ed è probabile che questo cocktail sia semplicemente un Daisy a base di tequila, uno stile di cocktail che risale all'epoca vittoriana.\nCi sono molte persone che affermano di aver inventato o dato il nome al Margarita.\nI seguenti sono i più rinomati:\n\nSi dice che Daniele Negrete abbia creato la bevanda per la sua ragazza, Margarita, come regalo nel 1936, quando era il manager del Graci Crespo Hotel a Puebla, in Messico. Nel 1944 Daniel si trasferì a Tijuana, in Messico, e divenne un bartender all'Agua Caliente Racetrack, un luogo che sostiene di essere il luogo di nascita del Margarita all'inizio degli anni '30.\n\nVernon Underwood era presidente della Young’s Market Company, che negli anni '30 ha iniziato a distribuire Cuervo Tequila in America. Ha chiesto a Johnny Durlesser, barista capo del Tail O ’The Clock di Los Angeles di creare qualcosa con quel prodotto, e poi ha chiamato questa creazione in onore di sua moglie, Margaret (Margarita)."
+            },
+            
+            {
+                "id":               "dirty-martini",
+                "name":             "Dirty Martini",
+                "origin":           "U.S.A.",
+                "description":      "",
+                "category":         "Short drink",
+                "glass":            "Martini glass",
+                "instructions":     "Versa tutti gli ingredienti all'interno del mixing glass, riempilo di ghiaccio e mescola per almeno 30 secondi. Versa il tutto in una coppetta raffreddata e guarnisci.",
+                "method":           "Stir",
+                "ice":              "Senza ghiaccio",
+                "ingredients":
+                [
+                    "London Dry Gin",
+                    "Vermouth Dry",
+                    "Salamoia di olive",
+                    "Orange bitters"
+                ],
+                "measures":
+                [
+                    "60 ml",
+                    "10 ml",
+                    "5 - 10 ml",
+                    "3 dashes"
+                ],
+                "garnish":          "Una o tre olive su uno stuzzicadente",
+                "history":          "Il Dirty Martini è un cocktail che deriva direttamente dal Vodka Martini, cocktail reso celebre da James Bond (interpretato da Sean Connery) con la famosa frase “Shaken, not stirred”.\nQuesto drink era anche il preferito del presidente degli Stati Uniti d’America Franklin Delano Roosevelt, famoso per avere abolito il proibizionismo, il quale offrì questo cocktail anche al leader sovietico Stalin.\nUn altro presidente statunitense amante di questo cocktail era Bill Clinton, che ridiede notorietà al drink, in quanto soleva richiedere un Vodka Martini “sporcato” con la salamoia delle olive, richiesta che fece anche in occasione di un evento pubblico presso il bar del World Trade Center di New York City."
+            },
+
+            {
+                "id":               "dry-martini",
+                "name":             "Dry Martini",
+                "origin":           "U.S.A.",
+                "description":      "",
+                "category":         "Short drink",
+                "glass":            "Martini glass",
+                "instructions":     "Versa tutti gli ingredienti all'interno del mixing glass, riempilo di ghiaccio e mescola per almeno 30 secondi. Versa il tutto in una coppetta raffreddata e guarnisci.",
+                "method":           "Stir",
+                "ice":              "Senza ghiaccio",
+                "ingredients":
+                [
+                    "London Dry Gin",
+                    "Vermouth Dry",
+                    "Orange bitters"
+                ],
+                "measures":
+                [
+                    "60 ml",
+                    "10 ml",
+                    "3 dashes"
+                ],
+                "garnish":          "Buccia di limone",
+                "history":          "Vi sono numerose ipotesi in merito alla nascita del cocktail forse più famoso del mondo; è risaputo però che il nome del drink non è legato al famoso marchio Martini.\nLa tesi più plausibile racconta che il cocktail fu creato da un tale Martini di Arma di Taggia, il quale servì per primo il drink nel 1910 a New York presso il Knickerbocker Hotel in onore di John D. Rockefeller.\nSecondo altri il drink fu servito ancora prima, negli USA, in Martinez, California, oppure a New Orleans dal barman Martinez, intorno alla fine del 1800.\nL’ipotesi più antica narra che il barman Jerry Thomas nel 1860 servì il primo Dry Martini ad un cliente in viaggio verso la città di Martinez."
+            },
+            
+            {
+                "id":               "gin-martini",
+                "name":             "Gin Martini",
+                "origin":           "Italia",
+                "description":      "",
+                "category":         "Short drink",
+                "glass":            "Martini glass",
+                "instructions":     "Versa tutti gli ingredienti all'interno del mixing glass, riempilo di ghiaccio e mescola per almeno 30 secondi. Versa il tutto in una coppetta raffreddata e guarnisci.",
+                "method":           "Stir",
+                "ice":              "Senza ghiaccio",
+                "ingredients":
+                [
+                    "London Dry Gin",
+                    "Vermouth Dry",
+                    "Orange bitters"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "20 ml",
+                    "3 dashes"
+                ],
+                "garnish":          "Buccia di limone",
+                "history":          "L'origine esatta del Gin Martini non è chiara, come al solito. Il nome potrebbe derivare dalla marca di vermouth Martini. Un'altra teoria popolare suggerisce che si sia evoluto da un cocktail chiamato Martinez servito all'inizio del 1860 all'Occidental Hotel di San Francisco, che le persone frequentavano prima di prendere il traghetto per una città vicina chiamata Martinez."
+            },
+            
+            {
+                "id":               "espresso-martini",
+                "name":             "Espresso Martini",
+                "origin":           "U.K.",
+                "description":      "",
+                "category":         "Short drink",
+                "glass":            "Coppetta",
+                "instructions":     "Versa tutti gli ingredienti all'interno dello shaker, riempilo di ghiaccio e shakera vigorosamente per 8-10 secondi. Esegui un doppio strain in una coppetta e guarnisci.",
+                "method":           "Shake and strain",
+                "ice":              "Senza ghiaccio",
+                "ingredients":
+                [
+                    "Vodka alla vaniglia",
+                    "Liquore al caffè",
+                    "Espresso",
+                    "Sciroppo alla vaniglia"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "25 ml",
+                    "50 ml",
+                    "10 ml"
+                ],
+                "garnish":          "Tre chicchi di caffè",
+                "history":          "Questo cocktail fu invitato da Dick Bradsell nel 1983 alla Soho Brasserie. Il nome originale del cocktail era 'Vodka Espresso', poi rinominato 'Pharmaceutical Stimulant' e infine 'Espresso Martini'.\nDick Bradsell è riconosciuto per aver rivoluzionato la scena dei cocktail a Londra in quel periodo, attraverso il suo lavoro in bar come The Player, 6 Degrees e Match - e l'invenzione del Bramble.\nLa storia racconta che Bradsell creò la bevanda quando una giovane modella si avvicinò al bar e chiese qualcosa per 'svegliarmi e fottermi - wake me up and fuck me up'. La sua soluzione era una combinazione di vodka, caffè espresso fresco, liquore al caffè e zucchero, shakerati in un mix schiumoso di dipendenza agrodolce."
+            },
+            
+            {
+                "id":               "pornstar-martini",
+                "name":             "Pornstar Martini",
+                "origin":           "U.K.",
+                "description":      "",
+                "category":         "Short drink",
+                "glass":            "Coppetta",
+                "instructions":     "Versa tutti gli ingredienti all'interno dello shaker, riempilo di ghiaccio e shakera vigorosamente per 8-10 secondi. Esegui un doppio strain in una coppetta e guarnisci.",
+                "method":           "Shake and strain",
+                "ice":              "Senza ghiaccio",
+                "ingredients":
+                [
+                    "Vodka alla vaniglia",
+                    "Purea di frutto della passione",
+                    "Succo di frutto della passione",
+                    "Sciroppo alla vaniglia",
+                    "Succo di lime",
+                    "Prosecco"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "35 ml",
+                    "35 ml",
+                    "20 ml",
+                    "5 ml",
+                    "Shot di"
+                ],
+                "garnish":          "Mezzo frutto della passione e shot di prosecco",
+                "history":          "Douglas Ankrah è l'ideatore di questo cocktail provocante, giocoso e 'ironico', realizzato al LAB Bar nella zona di Soho a Londra. Questo mix di vodka alla vaniglia, frutto della passione e champagne, crea un esotico equilibrio di sapori troppo facili da consumare.\nQuello che era davvero inaspettato, quando ha creato questo cocktail, è che la sua popolarità sarebbe durata per quasi due decenni, al punto che nel 2019 è stato segnalato come il cocktail più ordinato dell'intero Regno Unito."
+            },
+                        
+            {
+                "id":               "vodka-martini",
+                "name":             "Vodka Martini",
+                "origin":           "U.S.A.",
+                "description":      "",
+                "category":         "Short drink",
+                "glass":            "Martini glass",
+                "instructions":     "Versa tutti gli ingredienti all'interno del mixing glass, riempilo di ghiaccio e mescola per almeno 30 secondi. Versa il tutto in una coppetta raffreddata e guarnisci.",
+                "method":           "Stir",
+                "ice":              "Senza ghiaccio",
+                "ingredients":
+                [
+                    "Vodka",
+                    "Vermouth Dry",
+                    "Orange bitters"
+                ],
+                "measures":
+                [
+                    "50 ml",
+                    "20 ml",
+                    "3 dashes"
+                ],
+                "garnish":          "Buccia di limone",
+                "history":          "Mentre c'erano molti cocktail diversi che circolavano sotto il nome di 'Martini' nel 1890, la prima cosa che assomiglia lontanamente al Martini di oggi era un drink chiamato 'Marguerite' stampata nel libro del 1904 ‘Stuart's Fancy Drinks and How to Mix Them’, che chiamava per due parti di gin Plymouth (dry), una parte di vermouth francese (dry) e una dash di orange bitters.\nLe versioni del cocktail Martini arrivate successivamente a questa data tendono ad seguire la formula del gin dry e del vermouth dry, ed era questa versione del cocktail che divenne popolare all'inizio del XX secolo, prima della proibizione dei liquori negli Stati Uniti (1920 – 1933)."
+            },
+            
+            {
+                "id":               "mimosa",
+                "name":             "Mimosa",
+                "origin":           "Italia",
+                "description":      "",
+                "category":         "Short drink",
+                "glass":            "Flute",
+                "instructions":     "Versa tutti gli ingredienti all'interno del mixing glass, riempilo di ghiaccio e mescola per almeno 30 secondi. Versa il tutto in una coppetta raffreddata e guarnisci.",
+                "method":           "Stir",
+                "ice":              "Senza ghiaccio",
+                "ingredients":
+                [
+                    "Prosecco",
+                    "Succo d'arancia"
+                ],
+                "measures":
+                [
+                    "75 ml",
+                    "75 ml"
+                ],
+                "garnish":          "",
+                "history":          "Brunch e Mimosa vanno semplicemente di pari passo, e molti locali per il brunch di solito offrono Bottomless Mimosa.\nCome la maggior parte dei cocktail classici, ci sono molte leggende sulle vere origini del Mimosa. Il Buck's Fizz, anch'esso fatto con champagne e succo d'arancia (ma con una maggiore quantità di vino), fu inventato nel 1921 al Buck's Club di Londra. Sebbene questi due cocktail abbiano molto in comune, si ritiene che quattro anni dopo, nel 1925, Frank Meier, un barista del Ritz Hotel di Parigi, inventò il Mimosa, che utilizza parti uguali di spumante e succo."
+            },
+            
+            {
+                "id":               "pisco-sour",
+                "name":             "Pisco Sour",
+                "origin":           "Peru",
+                "description":      "",
+                "category":         "Short drink",
+                "glass":            "Coppetta",
+                "instructions":     "Versa tutti gli ingredienti all'interno dello shaker, riempilo di ghiaccio e shakera vigorosamente per 8-10 secondi. Esegui un doppio strain, aggiungi l'albume o l'alternativa e shakera senza ghiaccio per altri 10 secondi. Versa il contenuto in un bicchiere con ghiaccio e guarnisci.",
+                "method":           "Reverse dry shake",
+                "ice":              "Senza ghiaccio",
+                "ingredients":
+                [
+                    "Pisco",
+                    "Succo di limone",
+                    "Sciroppo di zucchero",
+                    "Albume o alternativa"
+                ],
+                "measures":
+                [
+                    "60 ml",
+                    "30 ml",
+                    "20 ml",
+                    "1"
+                ],
+                "garnish":          "Qualche dash di Angostura bitter",
+                "history":          "Questo meraviglioso cocktail proveniente dal Sud America ha un'origine abbastanza nebbiosa poiché molti affermano di essere il creatore del cocktail.\nIl racconto più accettato è che iniziò la sua esistenza nel famoso Morris Bar di Lima all'inizio degli anni '20. Victor Vaughen Morris, un americano trasferitosi in Perù per il commercio minerario nel 1903, aprì il Morris Bar e preparò la bevanda come alternativa al Whisky Sour.\nLa versione moderna di questo cocktail non è nata fino alla fine degli anni '20, quando il barista Mario Bruige ha aggiunto alla ricetta l'Angostura e il bianco d’uovo."
+            }
+        ]
+    }
+]

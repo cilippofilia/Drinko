@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Welcome to Drinko!",
+        "image": "BlueTemp",
+        "text": "Drinko is practical and easy to use app. Whether you want to start making cocktails, you are a beginner bartender or simply a cocktail aficionado, this app will guide you through the basics of bartending and the classic cocktails.\n\nAt the bottom of the screen you will find 3 tabs."
+    },
+    
+    {
+        "title": "Learn tab",
+        "image": "equipment",
+        "text": "Inside the this tab you will find all you need to know to start making delicious cocktails. It is divided in sections so you can easily navigate through it.\nThere is also a Book section inside it that will help you find out interesting books to get if you want to expand your knowledge and try new cocktails."
+    },
+    
+    {
+        "title": "Cocktails tab",
+        "image": "cocktailGraph",
+        "text": "Inside the this tab there are more than 35 cocktails that I believe to be the ones that everyone should at least try once. Use this section to find cocktails that you have not tried yet or simply to recreate those memorable ones that you keep ordering at the bar.\n\nThis should be a secret but... hear me out, a Boulevardier is just a Negroni with Whiskey 😉"
+    },
+
+    {
+        "title": "Cabinet tab",
+        "image": "cabinet_img",
+        "text": "Inside the this tab you can add as many products and categories as you like. I love to use it to keep track of all the bottles that I have and all the ones that I'd like to buy so every time I am not at home and I come up with cocktails idea I know for sure what I need to buy or not."
+    },
+
+    {
+        "title": "Settings tab",
+        "image": "gear",
+        "text": "Inside this tab you can change the language of the app, switching between English and Italian (I will try to add more languages in the future), change the app icon or emailing the man behind this in case you find bugs, errors, missing or incorrect informations and so on."
+    },
+    
+    {
+        "title": "Last but not least",
+        "image": "TYcard",
+        "text": "Thank you for downloading Drinko. I really hope you can enjoy this app as much as I have enjoyed creating it, making all the cocktails for it and taking pictures of them to make this app more personal.\n\nLet me see what you create and tag me on Instagram @Drinko.app\n\nCheers!🍹"
+    }
+]

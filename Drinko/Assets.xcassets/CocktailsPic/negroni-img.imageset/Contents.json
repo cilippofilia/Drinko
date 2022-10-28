@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "negroni-img.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

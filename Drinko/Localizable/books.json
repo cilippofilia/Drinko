@@ -1,0 +1,43 @@
+[
+    {
+        "id": "liquid-intelligence",
+        "title": "Liquid Intelligence",
+        "description": "The art & science of the perfect cocktail",
+        "author": "Dave Arnold"
+    },
+    
+    {
+        "id": "the-curious-bartender-volume-1",
+        "title": "The Curious Bartender v1",
+        "description": "The artistry & alchemy of creating the perfect cocktail",
+        "author": "Tristan Stephenson"
+    },
+    
+    {
+        "id": "the-curious-bartender-volume-2",
+        "title": "The Curious Bartender v2",
+        "description": "The new testament of cocktails",
+        "author": "Tristan Stephenson"
+    },
+    
+    {
+        "id": "smugglers-cove",
+        "title": "Smuggler's Cove",
+        "description": "Exotic cocktails, Rum, and the cult of tiki",
+        "author": "Martin Cate w/Rebecca Cate"
+    },
+    
+    {
+        "id": "shrubs",
+        "title": "Shrubs",
+        "description": "An old fashioned drink for modern times",
+        "author": "Michael Dietsch"
+    },
+    
+    {
+        "id": "tiki",
+        "title": "Tiki",
+        "description": "Modern tropical cocktails",
+        "author": "Shannon Mustipher"
+    }
+]

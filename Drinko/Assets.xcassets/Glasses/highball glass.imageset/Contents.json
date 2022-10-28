@@ -1,0 +1,25 @@
+{
+  "images" : [
+    {
+      "filename" : "highball glass black.pdf",
+      "idiom" : "universal"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "highball glass.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "auto-scaling" : "auto"
+  }
+}

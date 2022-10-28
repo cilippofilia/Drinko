@@ -1,0 +1,33 @@
+{
+  "identifier" : "A8042852",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "1.09",
+      "familyShareable" : false,
+      "internalID" : "4005B035",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "DrinkoPlus",
+      "referenceName" : "Drinko Plus",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 1
+  }
+}

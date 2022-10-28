@@ -1,0 +1,40 @@
+[
+    {
+        "title": "Benvenuto su Drinko!",
+        "image": "BlueTemp",
+        "text": "Drinko è un'app pratica e facile da usare. Se sei interessato a iniziare a fare cocktail, che tu sia un bartender principiante o semplicemente un appassionato del mestiere, questa app ti guiderà attraverso le basi del bartending e dei cocktail classici.\n\nIn fondo allo schermo troverai 3 schede."
+        
+    },
+    
+    {
+        "title": "Impara",
+        "image": "equipment",
+        "text": "All'interno di questa scheda troverai tutto ciò di cui hai bisogno per iniziare a preparare deliziosi cocktail. È divisa in sezioni in modo che tu possa navigarla facilmente.\nC'è anche una sezione Libri al suo interno che ti aiuterà a trovare libri interessanti nel caso tu voglia approfondire gli argomenti trattati o provare nuovi cocktail. "
+    },
+    
+    {
+        "title": "Cocktails",
+        "image": "cocktailGraph",
+        "text": "All'interno di questa scheda ci sono più di 35 cocktail che credo siano quelli che tutti dovrebbero provare almeno una volta. Usa questa sezione per trovare i cocktail che non hai ancora provato o semplicemente per ricreare quelli memorabili che continui a ordinare il bar.\n\nChe rimanga tra me e te, un Boulevardier è soltanto un Negroni con Whiskey 😉"
+    },
+
+    {
+        "title": "Cocktails",
+        "image": "cabinet_img",
+        "text": "All'interno di questa tab puoi aggiungere tutti i prodotti e le categorie che desideri. Mi piace usarla per tenere traccia di tutte le bottiglie che ho e di tutte quelle che vorrei acquistare, quindi ogni volta che non sono a casa e mi viene un'idea per dei cocktail da provare a fare son sicuro di quali prodotti mi servono e di quali no."
+    },
+    
+    {
+        "title": "Impostazioni",
+        "image": "example",
+        "text": "All'interno di questa scheda puoi cambiare la lingua dell'app, alternando tra inglese e italiano (cercherò di aggiungere altre lingue in futuro), cambiare l'icona dell'app o inviare un'e-mail allo sviluppatore nel caso in cui trovi bug, errori, informazioni mancanti o errate, e così via."
+        
+        
+    },
+    
+    {
+        "title": "Infine",
+        "image": "example",
+        "text": "Grazie per aver scaricato Drinko. Spero davvero che tu ti possa divertire questa app tanto quanto a me è piaciuto crearla, preparare tutti i cocktail e scattare le foto per rendere questa app più personale.\n\nFammi vedere le tue creazioni e taggami su Instagram @Drinko.app\n\nCheers! 🍹"
+    }
+]

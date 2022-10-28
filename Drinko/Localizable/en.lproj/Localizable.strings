@@ -1,0 +1,277 @@
+/* TABS */
+"Learn" = "Learn";
+"Cocktails" = "Cocktails";
+"Settings" = "Settings";
+
+
+
+/* FAVORITES BUTTON */
+"Remove from favorites" = "Remove from favorites";
+"Add to favorites" = "Add to favorites";
+
+"Add to cart" = "Add to cart";
+"Remove from cart" = "Remove from cart";
+
+
+
+/* FROM LEARN TAB */
+"Suggested Books" = "Suggested Books";
+"N.A." = "N.A.";
+"Practice Timing" = "Practice Timing";
+"Practice your timing" = "Practice your timing";
+"Spirits" = "Spirits";
+
+
+
+/* FROM LEARN TAB - PRACTICE RING */
+"Shake" = "Shake";
+"Stir" = "Stir";
+
+"Practice" = "Practice";
+
+"Start" = "Start";
+"Stop" = "Stop";
+"Reset" = "Reset";
+
+"Dismiss" = "Dismiss";
+"Watch Video" = "Watch Video";
+
+
+/* FROM COCKTAILS TAB - DETAILED VIEW OF A COCKTAIL */
+"Ingredients" = "Ingredients";
+"Garnish" = "Garnish";
+"No garnish needed" = "No garnish needed";
+"How to" = "How to";
+"Type of ice:" = "Type of ice:";
+
+"History" = "History";
+
+
+
+/* FROM CABINET TAB */
+"Cabinet" = "Cabinet";
+"Add New Product" = "Add New Product";
+"Start adding categories and products\nby pressing the + above." = "Start adding categories and products\nby pressing the + above.";
+
+
+"Sort products" = "Sort products";
+"Optimized" = "Optimized";
+"Creation Date" = "Creation Date";
+"Name" = "Name";
+
+
+
+/* FROM CABINET TAB - EDIT HEADER */
+"Info" = "Info";
+"Colors" = "Colors";
+"Save Changes" = "Save Changes";
+"Delete Category" = "Delete Category";
+"Delete Product" = "Delete Product";
+"Edit Category" = "Edit Category";
+"Category name" = "Category Name";
+"Category detail" = "Category Detail";
+
+"Delete category?" = "Delete category?";
+"Are you sure you want to delete this category? You will also delete all the products it contains." = "Are you sure you want to delete this category? You will also delete all the products it contains.";
+
+"Delete" = "Delete";
+
+"By deleting the category you will be deleting every product inside it." = "By deleting the category you will be deleting every product inside it.";
+
+
+
+/* FROM CABINET TAB - ITEM ROW VIEW */
+"% ABV" = "% ABV";
+"N.A." = "N.A.";
+
+
+
+/* FROM CABINET TAB - EDIT ITEM */
+"Product" = "Product";
+"Product name" = "Product name";
+"% ABV" = "% ABV";
+"Made in" = "Made in";
+"Rating" = "Rating";
+"Have you tried it yet?" = "Have you tried it yet?";
+"Notes" = "Notes";
+"By deleting the product you will be deleting every informations added to it." = "By deleting the product you will be deleting every informations added to it.";
+"Delete product?" = "Delete product?";
+"Are you sure you want to delete this product? You will delete all the informations added to it." = "Are you sure you want to delete this product? You will delete all the informations added to it.";
+
+
+
+/* FROM SETTINGS TAB */
+"Language" = "Language";
+"App Icon" = "App Icon";
+"Contacts" = "Contacts";
+"Report a bug" = "Report a bug";
+"Request a feature" = "Request a feature";
+"Collaborations" = "Collaborations";
+"Drinko" = "Drinko";
+"App version" = "App version";
+
+"Customize" = "Customize";
+"Helpers" = "Helpers";
+"Info" = "Info";
+
+"Product of " = "Product of ";
+"Italy 🇮🇹" = "Italy 🇮🇹";
+
+
+
+/* FROM SETTINGS TAB - LANGUAGE SECTION */
+"English" = "English";
+"Italian" = "Italian";
+
+
+
+/* FROM SETTINGS TAB - APP ICON */
+"Original" = "Original";
+"Neo Blue" = "Neo Blue";
+
+
+
+/* FROM SETTINGS TAB - REPORT A BUG */
+"I have found this bug in your app!" = "I have found this bug in your app!";
+
+
+
+/* FROM SETTINGS TAB - REQUEST A FEATURE */
+"I have some great suggestions for your app!" = "I have some great suggestions for your app!";
+
+
+
+/*  FROM SETTINGS TAB - COLLABORATIONS */
+"Let's work together!" = "Let's work together!";
+
+
+
+/* FROM SETTINGS TAB - CONTACTS */
+" - App" = " - App";
+" - Developer" = " - Developer";
+
+"@drinko.app" = "drinko.app";
+"@cilippofilia" = "cilippofilia";
+
+
+
+/* FROM SETTINGS TAB - CREDITS */
+"The content of this app is based on my knowledge, which I have developed over the past years, since I have started working as a bartender, and informations collected around the internet, from friends and colleagues, and from different books.\n\nRemember that TASTE is subjective, use this app as a guideline to know better your taste, to learn how to make all the cocktails that you like at home, discover some new ones and maybe create your own, and ultimately learn tips and tricks of professional bartending.\n\nAt the end of the day, if you like the drink sitting in front of you, you did it right." = "The content of this app is based on my knowledge, which I have developed over the past years, since I have started working as a bartender, and informations collected around the internet, from friends and colleagues, and from different books.\n\nRemember that TASTE is subjective, use this app as a guideline to know better your taste, to learn how to make all the cocktails that you like at home, discover some new ones and maybe create your own, and ultimately learn tips and tricks of professional bartending.\n\nAt the end of the day, if you like the drink sitting in front of you, you did it right.";
+
+
+
+/* OTHER GENERAL BUTTONS */
+"OK" = "OK";
+
+
+
+/* WHATS NEW STRINGS */
+"What's new?" = "What's new?";
+
+"History has been added" = "History has been added";
+"I have added the history of each cocktail in the 'Cocktails' tab." = "I have added the history of each cocktail in the 'Cocktails' tab.";
+
+"Drinko Plus" = "Drinko Plus";
+"For the first 50 people it will be free, hit me up and I'll send you a promo code, but after that, if you'd like to add more than 6 categories in the 'Cabinet' tab, you will have to pay a tiny amount" = "For the first 50 people it will be free, hit me up and I'll send you a promo code, but after that, if you'd like to add more than 6 categories in the 'Cabinet' tab, you will have to pay a tiny amount";
+
+"Watch the Videos" = "Watch the Videos";
+"I have made a couple of short videos available for everyone that learn better by watching instead of reading. I will probably add more in the future." = "I have made a couple of short videos available for everyone that learn better by watching instead of reading. I will probably add more in the future.";
+
+"Improved Icons" = "Improved Icons";
+"Just went through the icons, removed the one that I didn't like and improved the rest." = "Just went through the icons, removed the one that I didn't like and improved the rest.";
+
+
+
+/* QUICK GUIDE STRINGS */
+"Quick guide" = "Quick guide";
+
+"cocktailGraph" = "cocktailGraph";
+
+
+
+/* SPLASH SCREEN */
+"bg" = "bg";
+"logo" = "logo";
+
+
+
+/* IMAGE STRINGS */
+"book.fill" = "book.fill";
+"list.bullet" = "book.fill";
+"how-to-shake" = "how-to-shake";
+"how-to-stir" = "how-to-stir";
+"c.circle" = "c.circle";
+"on-the-rocks" = "on-the-rocks";
+"long-drink" = "long-drink";
+"short-drink" = "short-drink";
+"info.circle" = "info.circle";
+"heart" = "heart";
+"heart.fill" = "heart.fill";
+"text.bubble.fill" = "text.bubble.fill";
+"paintbrush.fill" = "paintbrush.fill";
+"ant.fill" = "ant.fill";
+"wand.and.rays" = "wand.and.rays";
+"network" = "network";
+"map" = "map";
+"gear" = "gear";
+"timer" = "timer";
+"checkmark.circle" = "checkmark.circle";
+"circle" = "circle";
+
+"US" = "US";
+"Puerto Rico" = "Puerto Rico";
+"Cuba" = "Cuba";
+
+"BlueTemp" = "BlueTemp";
+"NeoBlue" = "NeoBlue";
+"NeoBlueTemp" = "NeoBlueTemp";
+
+
+
+/* EXTRA STRINGS */
+"selectedView" = "selectedView";
+
+"CFBundleShortVersionString" = "CFBundleShortVersionString";
+"savedVersion" = "savedVersion";
+"App is up to date!" = "App is up to date!";
+
+"\n" = "\n";
+
+
+
+/* JSONS FILE NAMES */
+"lessons.json" = "lessons.json";
+"books.json" = "books.json";
+"QGdata.json" = "QGdata.json";
+
+
+
+/* DEBUGS STRINGS */
+"example" = "example";
+"Example lesson" = "Example lesson";
+"This is an example to see how things will look." = "This is an example to see how things will look.";
+"I want to start off with a big statement, you do not need everything straight away. Said so, let me help you out picking the right tools to start making awesome cocktails.\n\n• COCKTAIL SHAKERS\nThe two things to consider when buying a cocktail shaker are the style and the material.\nThere are two main style of shakers, a three-piece shaker, called Cobbler shaker, and a two-piece called Boston. The Cobbler is very hard to find a very well made one and is even hard to find spare parts, it tends to leak and it doesn't strain as quickly as a two-piece set up.\nMy suggestion is to go with a two-piece shaker with both parts made with metal, stainless steel is fine to start with too, simply because it is the most popular choice for professional bartenders, I use it at home and at work, is easier to use one-handed and looks and sounds good while shaking." = "I want to start off with a big statement, you do not need everything straight away. Said so, let me help you out picking the right tools to start making awesome cocktails.\n\n• COCKTAIL SHAKERS\nThe two things to consider when buying a cocktail shaker are the style and the material.\nThere are two main style of shakers, a three-piece shaker, called Cobbler shaker, and a two-piece called Boston. The Cobbler is very hard to find a very well made one and is even hard to find spare parts, it tends to leak and it doesn't strain as quickly as a two-piece set up.\nMy suggestion is to go with a two-piece shaker with both parts made with metal, stainless steel is fine to start with too, simply because it is the most popular choice for professional bartenders, I use it at home and at work, is easier to use one-handed and looks and sounds good while shaking.";
+
+"Liquid Intelligence" = "Liquid Intelligence";
+"Description of the book" = "Description of the book";
+"Example Author" = "Example Author";
+
+"Example title" = "Example title";
+"Example text for previewing purposes." = "Example text for previewing purposes.";
+
+
+/* UNLOCK FOLDER - PRODUCT VIEW */
+"Get Unlimited Products" = "Get Unlimited Products";
+"You can add up to 6 product categories for free, or pay %@ to add as many as you want." = "You can add up to 6 product categories for free, or pay %@ to add as many as you want.";
+"If you already have bought the the Plus version on another device, press Restore Purchases." = "If you already have bought the the Plus version on another device, press Restore Purchases.";
+"Buy: %@" = "Buy: %@";
+"Restore Purchases" = "Restore Purchases";
+
+
+/* UNLOCK FOLDER - UNLOCK VIEW */
+"Sorry, there was an error loading the store. Please try again later." = "Sorry, there was an error loading the store. Please try again later.";
+"Loading..." = "Loading...";
+"Thank you!" = "Thank you!";
+"Thank you! Your request is pending approval, but you can carry on using the app in the meantime." = "Thank you! Your request is pending approval, but you can carry on using the app in the meantime.";
+"Dismiss" = "Dismiss";
+"Tips Jar" = "Tips Jar";
